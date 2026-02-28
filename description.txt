@@ -1,0 +1,11 @@
+A Munchies Addon
+
+This mod works as a consumable tracker for a lot of Calamity related mods.
+
+You need to enable Munchies mod to run this mod. 
+
+Since the Munchies mod doesn't support dynamic sprites for the souls, they may seem weird.
+
+Good apple supported :)
+
+Enjoy!

@@ -1,0 +1,53 @@
+﻿[h1]Munchies灾厄拓展合集[/h1]
+
+运行本模组需要先启用[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies[/url]
+
+本模组是大多数灾厄相关的永久增益物品的追踪器，目前支持追踪以下可消耗的永久强化道具
+
+[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]灾厄[/url][/h2]
+[list]
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] 沐血柑橘
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] 奇迹之果
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] 污浊云莓
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] 圣佑草莓
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CometShard.png[/img] 彗星碎片
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] 飘渺之核
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] 幻影之心
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] 蘑菇根质
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] 地狱之血
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] 电刑之容
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] 电磁凝胶包
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] 星光能量核心
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] 幽魂之心
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] 天体洋葱
+[/list]
+[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]灾厄：旧神之猎[/url][/h2]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/YharonSoul.png[/img] 重生圣金魂
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/GoozmaSoul.png[/img] 虹彩圣金魂
+[/list]
+[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]灾厄：众神之怒[/url][/h2]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/AvatarAuricSoul.png[/img] 谬诞金源魄
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/NamelessAuricSoul.png[/img] 无上金源魄
+[*] [img]https://raw.githubusercontent.com/TheFifthCircle/WrathOfTheGodsPublic/refs/heads/main/icon_small.png[/img] Good Apple
+[/list]
+[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]诸神的黄昏[/url][/h2]
+[list]
+[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/refs/heads/main/Items/BardItems/Consumable/InspirationEssence.png[/img] 灵感精髓
+[/list]
+[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url][/h2]
+[list]
+[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/refs/heads/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] 奇异核心
+[/list]
+
+由于Munchies模组不支持金源魄的动态贴图，因此它们可能略显异常
+
+同时也请支持[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3547682929]Munchies暗影奥秘拓展[/url]和[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3657613689]Munchies旅人归途拓展[/url]
+
+v1.1 更新内容：
+[list]
+[*] 新增对灾厄、诸神的黄昏以及诸神黄昏：炼狱蚀光的兼容
+[/list]
+
+饮坠！

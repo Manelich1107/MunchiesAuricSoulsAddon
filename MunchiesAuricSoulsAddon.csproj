@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>MunchiesAuricSoulsAddon</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Remove="RagnarokMod\**\*.cs" />
+    <Compile Remove="ThoriumMod\**\*.cs" />
+    <Compile Remove="InfernalEclipseAPI-master\**\*.cs" />
+    <EmbeddedResource Remove="RagnarokMod\**\*" />
+    <EmbeddedResource Remove="ThoriumMod\**\*" />
+    <EmbeddedResource Remove="InfernalEclipseAPI-master\**\*" />
+    <None Remove="RagnarokMod\**\*" />
+    <None Remove="ThoriumMod\**\*" />
+    <None Remove="InfernalEclipseAPI-master\**\*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="tModLoader" />
+    <Reference Include="FNA" />
+    <Reference Include="log4net" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,66 @@
+Keybinds.ToggleReport.DisplayName: Toggle Report
+
+Configs: {
+	Config: {
+		DisplayName: 设置
+
+		AllowDragging: {
+			Label: 允许拖拽
+			Tooltip: 允许你拖动本模组的清单窗口
+		}
+
+		ResetDragCoords: {
+			Label: 重置拖拽位置
+			Tooltip: 启用此项以重置清单的位置
+		}
+
+		ShowMultiUseConsumables: {
+			Label: 显示可多次使用的增益物品
+			Tooltip: 显示可以被重复使用多次的增益物品，如生命水晶
+		}
+	}
+}
+
+Common.ConcatenateNewline:
+	'''
+	{0}
+	{1}
+	'''
+
+ConsumableType: {
+	player: 与角色绑定
+	world: "[c/f26fee:与世界绑定]"
+}
+
+UI: {
+	Report: {
+		Consumables: 永久增益物品
+		Completed: "{0} 已完成!"
+	}
+}
+
+Difficulty: {
+	classic: 仅限经典模式
+	expert: "[c/eb9b34:仅限专家模式]"
+	master: "[c/0000FF:仅限大师模式]"
+	mod_custom: "[c/00A5FF:仅限{0} - {1}模式]"
+}
+
+Acquisition: {
+	LifeCrystal: 在地下层及以下的位置可找到
+	LifeFruit: 困难模式生长在地下的丛林草上
+	ManaCrystal: 使用 5 个坠落之星制作
+	ArtisanLoaf: 在残月、新月、或娥眉月期间从骷髅商人（在洞穴层生成）处以 10 金币的价格购买 - 使用后骷髅商人将不再出售
+	TorchGodsFavor: 在火把神事件中存活获得（在地表以下紧密放置 101 根火把，躲避超过 95 发射弹）
+	VitalCrystal: 将生命水晶扔进微光
+	AegisFruit: 将生命果扔进微光
+	ArcaneCrystal: 将魔力水晶扔进微光
+	Ambrosia: 将任意水果扔进微光
+	GummyWorm: 将金蠕虫扔进微光（0.25% 概率取代普通蠕虫生成）
+	GalaxyPearl: 将粉珍珠扔进微光（1.33% 概率打开牡蛎获得）
+	DemonHeart: 在血肉墙的宝藏袋中获得
+	MinecartUpgradeKit: 使用机械车轮片（双子魔眼）、机械车体片（毁灭者）和机械电池片（机械骷髅王）合成获得
+	AdvCombatTech1: 血月钓鱼获得
+	AdvCombatTech2: 将魔法书扔进微光（从巫师处购买）
+	PeddlersSatchel: 将商贩帽放入微光获得（在旅商被击杀时掉落）
+}
