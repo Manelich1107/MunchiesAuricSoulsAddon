@@ -4,7 +4,7 @@
 
 本模组是大多数灾厄相关的永久增益物品的追踪器，目前支持追踪以下可消耗的永久强化道具
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]灾厄[/url]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]灾厄[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] 沐血柑橘
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] 奇迹之果
@@ -21,22 +21,22 @@
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] 幽魂之心
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] 天体洋葱
 [/list]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]灾厄：旧神之猎[/url]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]灾厄：旧神之猎[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/YharonSoul.png[/img] 重生圣金魂
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/GoozmaSoul.png[/img] 虹彩圣金魂
 [/list]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]灾厄：众神之怒[/url]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]灾厄：众神之怒[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/AvatarAuricSoul.png[/img] 谬诞金源魄
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/NamelessAuricSoul.png[/img] 无上金源魄
 [*] [img]https://raw.githubusercontent.com/TheFifthCircle/WrathOfTheGodsPublic/refs/heads/main/icon_small.png[/img] Good Apple
 [/list]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]诸神的黄昏[/url]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]诸神的黄昏[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/refs/heads/main/Items/BardItems/Consumable/InspirationEssence.png[/img] 灵感精髓
 [/list]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/refs/heads/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] 奇异核心
 [/list]
