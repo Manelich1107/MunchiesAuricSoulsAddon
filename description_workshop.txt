@@ -3,7 +3,7 @@
  You need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies mod[/url] to run this mod. 
 
 This mod works as a permanent power-ups tracker for most of the Calamity related. Right now, the mods can track the following consumables.
-[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url][/h2]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url]
 [list]
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] Celestial Onion
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CometShard.png[/img] Comet Shard
@@ -20,22 +20,22 @@ This mod works as a permanent power-ups tracker for most of the Calamity related
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] Starlight Fuel Cell
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] Tainted Cloudberry
 [/list]
-[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]Calamity: Hunt of the Old God[/url][/h2]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]Calamity: Hunt of the Old God[/url]
 [list]
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/YharonSoul.png[/img] Draconic Auric Soul
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/GoozmaSoul.png[/img] Chromatic Auric Soul
 [/list]
-[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]Calamity: Wrath of the Gods[/url][/h2]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]Calamity: Wrath of the Gods[/url]
 [list]
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/AvatarAuricSoul.png[/img] Grotesque Auric Soul
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/NamelessAuricSoul.png[/img] Supreme Auric Soul
 [*] [img]https://raw.githubusercontent.com/TheFifthCircle/WrathOfTheGodsPublic/refs/heads/main/icon_small.png[/img] Good Apple
 [/list]
-[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok Mod[/url][/h2]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok Mod[/url]
 [list]
 [*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/refs/heads/main/Items/BardItems/Consumable/InspirationEssence.png[/img] Inspiration Essence
 [/list]
-[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/h2]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url]
 [list]
 [*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/refs/heads/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] Singularity Core
 [/list]
