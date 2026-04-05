@@ -1,6 +1,6 @@
 displayName = Munchies All Calamity Addon
 author = Pudd1ng
-version = 1.1
+version = 1.2
 modReferences = Munchies
 weakReferences = CalamityMod, CalamityHunt, NoxusBoss, RagnarokMod, InfernalEclipseAPI
 side = Client

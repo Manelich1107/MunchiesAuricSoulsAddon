@@ -1,0 +1,3 @@
+Version：{ModVersion}
+Improve Munchies' tab drawing logic that there might be too many tabs when all the mods are enabled. Now the overflowing tabs will show in a second row!
+Thanks to Kes for implementing this :)

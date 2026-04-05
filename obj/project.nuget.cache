@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Da2iFUdnLHI=",
+  "dgSpecHash": "dWyEiuann8E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sonotendoka\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj",
+  "projectFilePath": "C:\\Users\\Sonotendoka\\Desktop\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonotendoka\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
     "C:\\Users\\Sonotendoka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
