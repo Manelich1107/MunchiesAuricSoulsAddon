@@ -1,8 +1,9 @@
 Acquisition: {
 	YharonSoul: 击败重生之龙，犽戎掉落
 	GoozmaSoul: 击败古泽玛掉落
-	AvatarSoul: 击败虚无化身掉落
-	NamelessSoul: 击败无名光神掉落
+	// RottenSoul: Obtained by defeating Old Duke
+	// AvatarAuricSoul: Obtained by defeating Avatar of Emptiness
+	// NamelessAuricSoul: Obtained by defeating The Nameless Deity
 	GoodApple: 击败无名光神掉落
 	BloodOrange: 使用血珠（10）、生命果（5）、恐惧之魂（5）、力量之魂（5）、视域之魂（5）合成
 	MiracleFruit: 使用生命碎片（12）、生命果（5）、生命合金（5）、猎捕花苞（5）合成
@@ -24,4 +25,14 @@ Acquisition: {
 	CelestialOnion: 月亮领主掉落
 	InspirationEssence: 在远古操纵机处使用海洋精华（1）、死亡精华（1）、狱火精华（1）与灵感碎片（1）合成
 	SingularityCore: 在远古操纵机处使用魂魄之心（2）、夜明锭（10）与赤岩鳞片（10）合成
+	// SunsHeart: Drops from Slime God
+	// GreatCrystal: Combine 8 Tank of the Past Cave, 1 Mana Crystal and 1 each of gem at Final Anvil
+	// AirHandcanon: Combine 8 Tank of the Past Sky and 20 any iron bar at Final Anvil
+	// HotCase: Combine 8 Tank of the Past Underworld and 999 Musket Ball at Final Anvil
+	// WhimInABottle: Combine 1 Bottle, 8 Tank of the Past Underworld and 6 Will to Grow at Final Anvil
+	// TheSwitch: Combine 1 Cold Blood, 1 Whale Bone Charm, 8 Essence of Nothingness, 8 Essence of Upshot at Final Anvil
+	// Americano: Combine 1 Bottled Water, 12 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	// Latte: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 12 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	// Mocha: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 12 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	// Cappuccino: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 32 Turbid Coffee Bean
 }

@@ -1,11 +1,12 @@
 Acquisition: {
 	YharonSoul: Obtained by defeating Jungle Dragon, Yharon
 	GoozmaSoul: Obtained by defeating Goozma
-	AvatarSoul: Obtained by defeating Avatar of Emptiness
-	NamelessSoul: Obtained by defeating The Nameless Deity
+	RottenSoul: Obtained by defeating Old Duke
+	AvatarAuricSoul: Obtained by defeating Avatar of Emptiness
+	NamelessAuricSoul: Obtained by defeating The Nameless Deity
 	GoodApple: Obtained by defeating The Nameless Deity
 	BloodOrange: Combine 10 Blood Orb and 5 each of Life Fruit and Soul of Might, Sight, & Fright
-	MiracleFruit: Combine 12 Living Shard and 5 each of Life Fruit, Trapper Bulb, amd Life Alloy
+	MiracleFruit: Combine 12 Living Shard and 5 each of Life Fruit, Trapper Bulb, and Life Alloy
 	Elderberry: Combine 5 Life Fruit, 10 each of Uelibloom Bar and Divine Geode, and 20 Unholy Essence
 	Dragonfruit: Combine 5 each of Life Fruit and Yharon Soul Fragment, 15 Solar Fragment, and 1 Ascendent Spirit Essence
 	SanguineTangerine: Combine 10 Blood Orb, 1 Life Fruit and 5 each of Soul of Might, Sight, & Fright
@@ -24,4 +25,14 @@ Acquisition: {
 	CelestialOnion: Drops from Moon Lord
 	InspirationEssence: Combine 1 Ocean Essence, 1 Death Essence, 1 Inferno Essence and 1 Inspiration Fragment at the Ancient Manipulator
 	SingularityCore: Combine 2 Soul Heart, 10 Luminite Bar and 10 Sanguite Scales at the Ancient Manipulator
+	SunsHeart: Drops from Slime God
+	GreatCrystal: Combine 8 Tank of the Past Cave, 1 Mana Crystal and 1 each of gem at Final Anvil
+	AirHandcanon: Combine 8 Tank of the Past Sky and 20 any iron bar at Final Anvil
+	HotCase: Combine 8 Tank of the Past Underworld and 999 Musket Ball at Final Anvil
+	WhimInABottle: Combine 1 Bottle, 8 Tank of the Past Underworld and 6 Will to Grow at Final Anvil
+	TheSwitch: Combine 1 Cold Blood, 1 Whale Bone Charm, 8 Essence of Nothingness, 8 Essence of Upshot at Final Anvil
+	Americano: Combine 1 Bottled Water, 12 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	Latte: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 12 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	Mocha: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 12 Sweat Coffee Bean, 3 Turbid Coffee Bean
+	Cappuccino: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 32 Turbid Coffee Bean
 }
