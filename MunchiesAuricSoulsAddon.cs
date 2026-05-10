@@ -292,6 +292,7 @@ public class MunchiesAuricSoulsAddon : Mod
     {
         if (InfernalEclipseAPI == null) return;
         ModItem core = GetModItem(InfernalEclipseAPI, "SingularityCore");
+        ModItem plasma = GetModItem(InfernalEclipseAPI, "RuinousPlasmaInjection");
         if (core != null)
         {
             CallMunchiesModConsumable(InfernalEclipseAPI, core, () =>
@@ -299,6 +300,16 @@ public class MunchiesAuricSoulsAddon : Mod
                 try { return !core.CanUseItem(Main.LocalPlayer); }
                 catch { return false; }
             }, GetLoc("SingularityCore"));
+        }
+        if (plasma != null)
+        {
+            CallMunchiesModMultiConsumable(
+                InfernalEclipseAPI,
+                plasma,
+                () => GetModPlayerFieldOrProperty<int>(InfernalEclipseAPI, Main.LocalPlayer, "InfernalPlayer", "ruinousPlasmaInjection"),
+                () => 5,
+                GetLoc("RuinousPlasmaInjection")
+            );
         }
     }
 
