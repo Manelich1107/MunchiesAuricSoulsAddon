@@ -26,7 +26,7 @@ Acquisition: {
 	InspirationEssence: Combine 1 Ocean Essence, 1 Death Essence, 1 Inferno Essence and 1 Inspiration Fragment at the Ancient Manipulator
 	SingularityCore: Combine 2 Soul Heart, 10 Luminite Bar and 10 Sanguite Scales at the Ancient Manipulator
 	RuinousPlasmaInjection: Combine 1 Armored Shell, 1 Dark Plasma and 1 Ruinous Soul at at Ancient Manipulator
-	SunsHeart: Drops from Slime God
+	SunsHeart: Obtained by defeating Slime God
 	GreatCrystal: Combine 8 Tank of the Past Cave, 1 Mana Crystal and 1 each of gem at Final Anvil
 	AirHandcanon: Combine 8 Tank of the Past Sky and 20 any iron bar at Final Anvil
 	HotCase: Combine 8 Tank of the Past Underworld and 999 Musket Ball at Final Anvil
@@ -36,4 +36,9 @@ Acquisition: {
 	Latte: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 12 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
 	Mocha: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 12 Sweat Coffee Bean, 3 Turbid Coffee Bean
 	Cappuccino: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 32 Turbid Coffee Bean
+	RabiesVaccine: Combine 30 Rabies Shot at Placed Bottle or Alchemy Table
+	DeerSinew: Drops from Deerclops in Eternity Mode only
+	MutantsDiscountCard: Drops from Wall of Flesh in Eternity Mode only
+	MutantsCreditCard: Drops from Duke Fishron in Eternity Mode only
+	MutantsPact: Drops from Lunatic Cultist in Eternity Mode only
 }
