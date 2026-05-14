@@ -49,6 +49,8 @@ public class MunchiesAuricSoulsAddon : Mod
             AddRagnarokConsumables(munchiesMod);
             AddCoJConsumables(munchiesMod);
             AddFargoConsumables(munchiesMod);
+            AddRedemptionConsumables(munchiesMod);
+            AddQoTConsumables(munchiesMod);
         }
         catch (Exception ex)
         {
@@ -173,6 +175,20 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumable(munchies, fargo, "MutantsPact", "FargoSoulsPlayer", "MutantsPactSlot", new Color(51, 255, 191), "Eternity", category: "Fargo's Souls Mod", isIntCheck: false);
     }
 
+    private void AddRedemptionConsumables(Mod munchies)
+    {
+        if (!ModLoader.TryGetMod("Redemption", out Mod redemption)) return;
+        RegisterConsumable(munchies, redemption, "GalaxyHeart", "RedePlayer", "galaxyHeart", Color.White, category: "Mod of Redemption", isIntCheck: false);
+        RegisterConsumable(munchies, redemption, "MedicKit", "RedePlayer", "medKit", Color.White, category: "Mod of Redemption", isIntCheck: false);
+    }
+
+    private void AddQoTConsumables(Mod munchies)
+    {
+        if (!ModLoader.TryGetMod("ImproveGame", out Mod qot)) return;
+        RegisterWorldConsumable(munchies, qot, "ShellShipInBottle_Shimmered", "QuickShimmerSystem", "Unlocked");
+        RegisterWorldConsumable(munchies, qot, "WeatherBook", "WeatherController", "Unlocked");
+    }
+
     // Core functions
     private void RegisterConsumable(Mod munchies, Mod targetMod, string itemName, string className, string fieldName, Color? color = null, string difficulty = "classic", string availabilityField = null, string category = "player", bool isIntCheck = false)
     {
@@ -188,6 +204,38 @@ public class MunchiesAuricSoulsAddon : Mod
 
             CallMunchiesSingle(munchies, targetMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availabilityCheck, category);
         }
+    }
+
+    private void RegisterWorldConsumable(Mod munchies, Mod targetMod, string itemName, string systemName, string fieldName, Color? color = null, string difficulty = "classic", string availabilityField = null)
+    {
+        if (targetMod.TryFind(itemName, out ModItem item))
+        {
+            Func<bool> consumedCheck = () => GetModSystemValue(targetMod, systemName, fieldName);
+            Func<bool> availabilityCheck = null;
+            if (!string.IsNullOrEmpty(availabilityField))
+            {
+                availabilityCheck = () => GetModSystemValue(targetMod, systemName, availabilityField);
+            }
+            CallMunchiesSingle(munchies, targetMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availabilityCheck, "world");
+        }
+    }
+
+    private bool GetModSystemValue(Mod mod, string systemName, string fieldName)
+    {
+        try
+        {
+            if (mod.TryFind(systemName, out ModSystem system))
+            {
+                Type type = system.GetType();
+                FieldInfo field = type.GetField(fieldName, BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
+                if (field != null) return (bool)field.GetValue(null);
+
+                PropertyInfo prop = type.GetProperty(fieldName, BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
+                if (prop != null) return (bool)prop.GetValue(null);
+            }
+        }
+        catch { }
+        return false;
     }
 
     private T GetModPlayerValue<T>(Mod mod, Player player, string className, string memberName)

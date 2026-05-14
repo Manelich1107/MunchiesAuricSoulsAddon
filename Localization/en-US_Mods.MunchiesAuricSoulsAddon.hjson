@@ -41,4 +41,8 @@ Acquisition: {
 	MutantsDiscountCard: Drops from Wall of Flesh in Eternity Mode only
 	MutantsCreditCard: Drops from Duke Fishron in Eternity Mode only
 	MutantsPact: Drops from Lunatic Cultist in Eternity Mode only
+	MedicKit: Drops from Patient Zero
+	GalaxyHeart: Drops from Nebuleus
+	ShellShipInBottle_Shimmered: Shimmer Shell Ship In Bottle
+	WeatherBook: Combine 1 Book, 50 Cloud, 20 Rain Cloud, 3 Fallen Star, 5 Any Shadow Scale at Work Bench
 }
