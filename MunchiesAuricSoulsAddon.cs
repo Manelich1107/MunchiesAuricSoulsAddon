@@ -65,6 +65,11 @@ public class MunchiesAuricSoulsAddon : Mod
             RegisterConsumable(munchies, hunt, "YharonSoul", "AuricSoulPlayer", "yharonSoul");
             RegisterConsumable(munchies, hunt, "GoozmaSoul", "AuricSoulPlayer", "goozmaSoul");
             RegisterConsumable(munchies, hunt, "RottenSoul", "AuricSoulPlayer", "olddukeSoul");
+
+            if (ModLoader.TryGetMod("CalRemix", out Mod remix))
+            {
+                RegisterConsumable(munchies, hunt, "AshenSoul", "AuricSoulPlayer", "pyrogenSoul", displayMod: remix);
+            }
         }
 
         if (ModLoader.TryGetMod("NoxusBoss", out Mod noxus))
@@ -190,7 +195,7 @@ public class MunchiesAuricSoulsAddon : Mod
     }
 
     // Core functions
-    private void RegisterConsumable(Mod munchies, Mod targetMod, string itemName, string className, string fieldName, Color? color = null, string difficulty = "classic", string availabilityField = null, string category = "player", bool isIntCheck = false)
+    private void RegisterConsumable(Mod munchies, Mod targetMod, string itemName, string className, string fieldName, Color? color = null, string difficulty = "classic", string availabilityField = null, string category = "player", bool isIntCheck = false, Mod displayMod = null)
     {
         if (targetMod.TryFind(itemName, out ModItem item))
         {
@@ -198,11 +203,14 @@ public class MunchiesAuricSoulsAddon : Mod
                 ? () => GetModPlayerValue<int>(targetMod, Main.LocalPlayer, className, fieldName) >= 1
                 : () => GetModPlayerValue<bool>(targetMod, Main.LocalPlayer, className, fieldName);
 
-            Func<bool> availabilityCheck = availabilityField != null
-                ? () => GetModPlayerValue<bool>(targetMod, Main.LocalPlayer, className, availabilityField)
-                : null;
+            Func<bool> availabilityCheck = null;
+            if (!string.IsNullOrEmpty(availabilityField))
+            {
+                availabilityCheck = () => GetModPlayerValue<bool>(targetMod, Main.LocalPlayer, className, availabilityField);
+            }
 
-            CallMunchiesSingle(munchies, targetMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availabilityCheck, category);
+            Mod finalTabMod = displayMod ?? targetMod;
+            CallMunchiesSingle(munchies, finalTabMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availabilityCheck, category);
         }
     }
 

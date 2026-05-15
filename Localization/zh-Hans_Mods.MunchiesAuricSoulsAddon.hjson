@@ -43,6 +43,7 @@ Acquisition: {
 	// MutantsPact: Drops from Lunatic Cultist in Eternity Mode only
 	// MedicKit: Drops from Patient Zero
 	// GalaxyHeart: Drops from Nebuleus
-	// ShellShipInBottle_Shimmered: ShellShipInBottle_Shimmered
-	// WeatherBook: WeatherBook
+	// ShellShipInBottle_Shimmered: Shimmer Shell Ship In Bottle
+	// WeatherBook: Combine 1 Book, 50 Cloud, 20 Rain Cloud, 3 Fallen Star, 5 Any Shadow Scale at Work Bench
+	// AshenSoul: AshenSoul
 }
