@@ -1,30 +1,34 @@
-﻿[h1]Munchies灾厄拓展合集[/h1]
+[h1]Munchies 跨模组拓展合集[/h1]
 
-运行本模组需要先启用[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies[/url]
+运行本模组需要先启用 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies[/url]。
 
-本模组是大多数灾厄相关的永久增益物品的追踪器，目前支持追踪以下可消耗的永久强化道具
-
+本模组用于追踪多个模组中的永久强化消耗品。目前支持追踪以下物品。
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]灾厄[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] 沐血柑橘
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] 奇迹之果
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] 污浊云莓
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] 圣佑草莓
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CometShard.png[/img] 彗星碎片
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] 飘渺之核
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] 幻影之心
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] 蘑菇根质
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] 地狱之血
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] 电刑之容
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] 电磁凝胶包
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] 星光能量核心
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] 幽魂之心
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] 天体洋葱
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CometShard.png[/img] 彗星碎片
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] 幽魂之心
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] 电磁凝胶包
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] 飘渺之核
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] 地狱之血
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] 奇迹之果
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] 蘑菇根质
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] 幻影之心
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] 电刑之容
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] 圣佑草莓
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] 沐血柑橘
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] 星光能量核心
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] 污浊云莓
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]灾厄：旧神之猎[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/YharonSoul.png[/img] 重生圣金魂
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/GoozmaSoul.png[/img] 虹彩圣金魂
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/YharonSoul.png[/img] 重生金源魄
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/GoozmaSoul.png[/img] 虹彩金源魄
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/RottenSoul.png[/img] 污朽金源魄
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956324268]灾厄：社区混合[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/AshenSoul.png[/img] 烬灰金源魄
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]灾厄：众神之怒[/url][/b]
 [list]
@@ -39,15 +43,51 @@
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/refs/heads/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] 奇异核心
+[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/refs/heads/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] 毁灭等离子体注射器
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]暗影奥秘[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/VioletStar.png[/img] 紫罗兰新月
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/ScarletStar.png[/img] 绯红新月
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/VoidenAnkh.png[/img] 虚空十字章
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/SoulHeart.png[/img] 魂魄之心
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]旅人归途[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Americano.png[/img] 美式咖啡
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Cappuccino.png[/img] 卡布奇诺咖啡
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Latte.png[/img] 拿铁咖啡
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Mocha.png[/img] 摩卡咖啡
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Eye_of_the_Ocean.png[/img] 海洋之眼
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Sun's_Heart.png[/img] 太阳心
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Air_Handcannon.png[/img] 空气手炮
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Grand_Crystal.png[/img] 伟大水晶
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Hot_Case.png[/img] 烫手弹匣
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/The_Switch.png[/img] 开关
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Whim_in_a_Bottle.png[/img] 瓶中奇想
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735]Fargo魂石[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/MutantsPact.png[/img] 突变体契约
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/MutantsDiscountCard.png[/img] 突变体的优惠卡
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/MutantsCreditCard.png[/img] 突变体的信用卡
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/RabiesVaccine.png[/img] 狂犬病疫苗
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/DeerSinew.png[/img] 鹿筋
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653]救赎[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Medic_Kit.png[/img] 医疗包
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Galaxy_Heart.png[/img] 银河之心
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]Quality of Terraria[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/refs/heads/1.4.4/Content/Items/WeatherBook.png[/img] 天气之书
+[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/refs/heads/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] 瓶中微光船
 [/list]
 
-由于Munchies模组不支持金源魄的动态贴图，因此它们可能略显异常
-
-同时也请支持[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3547682929]Munchies暗影奥秘拓展[/url]和[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3657613689]Munchies旅人归途拓展[/url]
-
-v1.1 更新内容：
+v2.0 更新内容：
 [list]
-[*] 新增对灾厄、诸神的黄昏以及诸神黄昏：炼狱蚀光的兼容
+[*] 新增对多个其他模组的兼容！
 [/list]
 
 饮坠！

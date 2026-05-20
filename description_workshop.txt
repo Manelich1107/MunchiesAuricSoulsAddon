@@ -1,8 +1,8 @@
-﻿[h1]Munchies All-Calamity Addon[/h1]
+﻿[h1]Munchies Crossmod Addon[/h1]
 
  You need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies mod[/url] to run this mod. 
 
-This mod works as a permanent power-ups tracker for most of the Calamity related. Right now, the mods can track the following consumables.
+This mod works as a permanent power-ups tracker for multiple mods. Right now, the mods can track the following consumables.
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/refs/heads/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] Celestial Onion
@@ -22,8 +22,13 @@ This mod works as a permanent power-ups tracker for most of the Calamity related
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]Calamity: Hunt of the Old God[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/YharonSoul.png[/img] Draconic Auric Soul
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/YharonSoul.png[/img] Rebirth Auric Soul
 [*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/GoozmaSoul.png[/img] Chromatic Auric Soul
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/RottenSoul.png[/img] Rotten Auric Soul
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956324268]Calamity: Community Remix[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/AshenSoul.png[/img] Ashen Auric Soul
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]Calamity: Wrath of the Gods[/url][/b]
 [list]
@@ -38,14 +43,51 @@ This mod works as a permanent power-ups tracker for most of the Calamity related
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/refs/heads/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] Singularity Core
+[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/refs/heads/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Ruinous Plasma Injection
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]Secrets Of The Shadows[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/VioletStar.png[/img] Violet Crescent
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/ScarletStar.png[/img] Scarlet Crescent
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/VoidenAnkh.png[/img] Voiden Ankh
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/refs/heads/1.4.4/Items/Void/SoulHeart.png[/img] Soul Heart
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]Homeward Journey[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Americano.png[/img] Americano
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Cappuccino.png[/img] Cappuccino
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Latte.png[/img] Latte
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Mocha.png[/img] Mocha
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Eye_of_the_Ocean.png[/img] Eye of the Ocean
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Sun's_Heart.png[/img] Sun's Heart
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Air_Handcannon.png[/img] Air Handcanon
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Grand_Crystal.png[/img] Grand Crystal
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Hot_Case.png[/img] Hot Case
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/The_Switch.png[/img] The Switch
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Whim_in_a_Bottle.png[/img] Whim in a Bottle
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735]Fargo's Souls Mod[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/MutantsPact.png[/img] Mutants Pact
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/MutantsDiscountCard.png[/img] Mutants Discount Card
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/MutantsCreditCard.png[/img] Mutant Credit Card
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/RabiesVaccine.png[/img] Rabies Vaccine
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/refs/heads/master/Content/Items/Consumables/DeerSinew.png[/img] Deer Sinew
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653]Mod of Redemption[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Medic_Kit.png[/img] Medic Kit
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/refs/heads/main/Galaxy_Heart.png[/img] Galaxy Heart
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]Quality of Terraria[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/refs/heads/1.4.4/Content/Items/WeatherBook.png[/img] Weather Book
+[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/refs/heads/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Shimmered Ship In Bottle
 [/list]
 
-Since the base Munchies mod doesn't support dynamic sprites for the souls, they may seem weird.
-Also check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3547682929]Munchies SotS Addon[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3657613689]Munchies Homeward Journey Addon[/url]!
-
-v1.1 update:
+v2.0 update:
 [list]
-[*] Add support for Calamity Mod, Ragnarok Mod & Infernal Eclipse of Ragnarok
+[*] Added support for multiple other mods!
 [/list]
 
 Enjoy!

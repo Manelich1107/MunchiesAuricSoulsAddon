@@ -46,6 +46,7 @@ public class MunchiesAuricSoulsAddon : Mod
             AddCalamityConsumables(munchiesMod);
             AddAuricSouls(munchiesMod);
             AddInfernalEclipseConsumables(munchiesMod);
+            AddSOTSConsumables(munchiesMod);
             AddRagnarokConsumables(munchiesMod);
             AddCoJConsumables(munchiesMod);
             AddFargoConsumables(munchiesMod);
@@ -150,6 +151,32 @@ public class MunchiesAuricSoulsAddon : Mod
         }
     }
 
+    private void AddSOTSConsumables(Mod munchies)
+    {
+        if (!ModLoader.TryGetMod("SOTS", out Mod sots)) return;
+
+        RegisterSOTSMultiUseConsumable(munchies, sots, "VioletStar", "voidStar", 1);
+        RegisterSOTSMultiUseConsumable(munchies, sots, "ScarletStar", "voidStar", 1);
+        RegisterSOTSMultiUseConsumable(munchies, sots, "VoidenAnkh", "voidAnkh", 5);
+
+        if (sots.TryFind("SoulHeart", out ModItem soulHeart))
+        {
+            CallMunchiesSingle(munchies, sots, soulHeart,
+                () => GetModPlayerValue<int>(sots, Main.LocalPlayer, "VoidPlayer", "voidSoul") >= 1,
+                GetLoc("SoulHeart"));
+        }
+    }
+
+    private void RegisterSOTSMultiUseConsumable(Mod munchies, Mod sots, string itemName, string fieldName, int totalUses)
+    {
+        if (sots.TryFind(itemName, out ModItem item))
+        {
+            CallMunchiesMulti(munchies, sots, item,
+                () => GetModPlayerValue<int>(sots, Main.LocalPlayer, "VoidPlayer", fieldName),
+                () => totalUses, GetLoc(itemName));
+        }
+    }
+
     private void AddCoJConsumables(Mod munchies)
     {
         if (!ModLoader.TryGetMod("ContinentOfJourney", out Mod coj)) return;
@@ -159,6 +186,7 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumable(munchies, coj, "AirHandcanon", "OtherUpgradesPlayer", "AirHandcanon", Color.White, category: "Homeward Journey", isIntCheck: true);
         RegisterConsumable(munchies, coj, "HotCase", "OtherUpgradesPlayer", "HotCase", Color.White, category: "Homeward Journey", isIntCheck: true);
         RegisterConsumable(munchies, coj, "WhimInABottle", "OtherUpgradesPlayer", "WhimInABottle", Color.White, category: "Homeward Journey", isIntCheck: true);
+        RegisterConsumable(munchies, coj, "HeartOfOcean", "OtherUpgradesPlayer", "HeartOfOcean", Color.White, category: "Homeward Journey", isIntCheck: true);
         if (!ModLoader.TryGetMod("HomewardRagnarok", out Mod hr) || GetModConfigValue<bool>(hr, "ServerConfig", "PermanentToAccessories"))
         {
             RegisterConsumable(munchies, coj, "TheSwitch", "OtherUpgradesPlayer", "TheSwitch", Color.White, category: "Homeward Journey", isIntCheck: true);

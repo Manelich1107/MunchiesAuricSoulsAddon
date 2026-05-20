@@ -26,6 +26,10 @@ Acquisition: {
 	InspirationEssence: 在远古操纵机处使用海洋精华（1）、死亡精华（1）、狱火精华（1）与灵感碎片（1）合成
 	SingularityCore: 在远古操纵机处使用魂魄之心（2）、夜明锭（10）与赤岩鳞片（10）合成
 	RuinousPlasmaInjection: 在远古操纵机处使用装甲外壳（1）、暗离子体（1）与毁灭之灵（1）合成
+	VioletStar: 在邪恶祭坛处使用液化陆地（1）、魔力水晶（1）、邪恶碎片（5）、外世碎片（5）与暗影鳞片（15）合成
+	ScarletStar: 在邪恶祭坛处使用液化陆地（1）、魔力水晶（1）、邪恶碎片（5）、外世碎片（5）与组织样本（15）合成
+	VoidenAnkh: 在铁砧处使用诅咒物质（10）、灵魂残渣（10）与唤灵石（20）合成
+	SoulHeart: 在蜕变祭坛处使用生命水晶（1）与跃空之魂（100）合成
 	SunsHeart: 击败史莱姆之神（旅人归途）掉落
 	GreatCrystal: 在最终金属砧处使用古老地底之罐（8）、魔力水晶（1）与每种宝石各一个合成
 	AirHandcanon: 在最终金属砧处使用古老天空之罐（8）与任何铁锭（20）合成
@@ -45,5 +49,6 @@ Acquisition: {
 	GalaxyHeart: 击败涅布琉斯，星宇天使掉落
 	ShellShipInBottle_Shimmered: 微光嬗变瓶中贝壳船获得
 	WeatherBook: 在工作台处使用书（1）、云（50）、雨云（20）、坠落之星（3）与暗影鳞片/组织样本（5）合成
-	AshenSoul: 烬灰金源魄（暂译）
+	AshenSoul: 击败火焰之灵掉落
+	HeartOfOcean: 专家或大师难度下从深潜者的宝藏袋中获得
 }

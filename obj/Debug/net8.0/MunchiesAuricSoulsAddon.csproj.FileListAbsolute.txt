@@ -1,0 +1,3 @@
+C:\Users\Sonotendoka\Desktop\temp\MunchiesAuricSoulsAddon\obj\Debug\net8.0\MunchiesAuricSoulsAddon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonotendoka\Desktop\temp\MunchiesAuricSoulsAddon\obj\Debug\net8.0\MunchiesAuricSoulsAddon.csproj.CoreCompileInputs.cache
+C:\Users\Sonotendoka\Desktop\temp\MunchiesAuricSoulsAddon\obj\Debug\net8.0\MunchiesAuricSoulsAddon.sourcelink.json

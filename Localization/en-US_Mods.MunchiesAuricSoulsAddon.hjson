@@ -27,6 +27,10 @@ Acquisition: {
 	InspirationEssence: Combine 1 Ocean Essence, 1 Death Essence, 1 Inferno Essence and 1 Inspiration Fragment at the Ancient Manipulator
 	SingularityCore: Combine 2 Soul Heart, 10 Luminite Bar and 10 Sanguite Scales at the Ancient Manipulator
 	RuinousPlasmaInjection: Combine 1 Armored Shell, 1 Dark Plasma and 1 Ruinous Soul at at Ancient Manipulator
+	VioletStar: Craft with Dissolving Earth, Mana Crystal, Fragment of Evil (5), Fragment of Otherworld (5), and Shadow Scale (15) at an Evil Altar
+	ScarletStar: Craft with Dissolving Earth, Mana Crystal, Fragment of Evil (5), Fragment of Otherworld (5), and Tissue Sample (15) at an Evil Altar
+	VoidenAnkh: Craft with Cursed Matter (10), Soul Residue (10), and Evostone (20) at an Anvil
+	SoulHeart: Craft with Life Crystal and Skip Soul (100) at the Transmutation Altar
 	SunsHeart: Obtained by defeating Slime God
 	GreatCrystal: Combine 8 Tank of the Past Cave, 1 Mana Crystal and 1 each of gem at Final Anvil
 	AirHandcanon: Combine 8 Tank of the Past Sky and 20 any iron bar at Final Anvil
@@ -46,4 +50,5 @@ Acquisition: {
 	GalaxyHeart: Drops from Nebuleus
 	ShellShipInBottle_Shimmered: Shimmer Shell Ship In Bottle
 	WeatherBook: Combine 1 Book, 50 Cloud, 20 Rain Cloud, 3 Fallen Star, 5 Any Shadow Scale at Work Bench
+	HeartOfOcean: Drops from Diver
 }

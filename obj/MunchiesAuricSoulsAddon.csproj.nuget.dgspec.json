@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sonotendoka\\Desktop\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj": {}
+    "C:\\Users\\Sonotendoka\\Desktop\\temp\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sonotendoka\\Desktop\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj": {
+    "C:\\Users\\Sonotendoka\\Desktop\\temp\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sonotendoka\\Desktop\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj",
+        "projectUniqueName": "C:\\Users\\Sonotendoka\\Desktop\\temp\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj",
         "projectName": "MunchiesAuricSoulsAddon",
-        "projectPath": "C:\\Users\\Sonotendoka\\Desktop\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj",
+        "projectPath": "C:\\Users\\Sonotendoka\\Desktop\\temp\\MunchiesAuricSoulsAddon\\MunchiesAuricSoulsAddon.csproj",
         "packagesPath": "C:\\Users\\Sonotendoka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sonotendoka\\Desktop\\MunchiesAuricSoulsAddon\\obj\\",
+        "outputPath": "C:\\Users\\Sonotendoka\\Desktop\\temp\\MunchiesAuricSoulsAddon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sonotendoka\\AppData\\Roaming\\NuGet\\NuGet.Config",
