@@ -2,6 +2,7 @@ Acquisition: {
 	YharonSoul: 击败重生之龙，犽戎掉落
 	GoozmaSoul: 击败古泽玛掉落
 	RottenSoul: 击败硫海遗爵掉落
+	AshenSoul: 击败火焰之灵掉落
 	AvatarAuricSoul: 击败虚无化身掉落
 	NamelessAuricSoul: 击败无名光神掉落
 	GoodApple: 击败无名光神掉落
@@ -49,6 +50,5 @@ Acquisition: {
 	GalaxyHeart: 击败涅布琉斯，星宇天使掉落
 	ShellShipInBottle_Shimmered: 微光嬗变瓶中贝壳船获得
 	WeatherBook: 在工作台处使用书（1）、云（50）、雨云（20）、坠落之星（3）与暗影鳞片/组织样本（5）合成
-	AshenSoul: 击败火焰之灵掉落
 	HeartOfOcean: 专家或大师难度下从深潜者的宝藏袋中获得
 }
