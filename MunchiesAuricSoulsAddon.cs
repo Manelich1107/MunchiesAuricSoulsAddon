@@ -159,7 +159,7 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumable(munchies, coj, "AirHandcanon", "OtherUpgradesPlayer", "AirHandcanon", Color.White, category: "Homeward Journey", isIntCheck: true);
         RegisterConsumable(munchies, coj, "HotCase", "OtherUpgradesPlayer", "HotCase", Color.White, category: "Homeward Journey", isIntCheck: true);
         RegisterConsumable(munchies, coj, "WhimInABottle", "OtherUpgradesPlayer", "WhimInABottle", Color.White, category: "Homeward Journey", isIntCheck: true);
-        if (!ModLoader.TryGetMod("HomewardRagnarok", out Mod hr) && GetModConfigValue<bool>(hr, "ServerConfig", "PermanentToAccessories"))
+        if (!ModLoader.TryGetMod("HomewardRagnarok", out Mod hr) || GetModConfigValue<bool>(hr, "ServerConfig", "PermanentToAccessories"))
         {
             RegisterConsumable(munchies, coj, "TheSwitch", "OtherUpgradesPlayer", "TheSwitch", Color.White, category: "Homeward Journey", isIntCheck: true);
         }

@@ -1,9 +1,9 @@
 Acquisition: {
 	YharonSoul: 击败重生之龙，犽戎掉落
 	GoozmaSoul: 击败古泽玛掉落
-	// RottenSoul: Obtained by defeating Old Duke
-	// AvatarAuricSoul: Obtained by defeating Avatar of Emptiness
-	// NamelessAuricSoul: Obtained by defeating The Nameless Deity
+	RottenSoul: 击败硫海遗爵掉落
+	AvatarAuricSoul: 击败虚无化身掉落
+	NamelessAuricSoul: 击败无名光神掉落
 	GoodApple: 击败无名光神掉落
 	BloodOrange: 使用血珠（10）、生命果（5）、恐惧之魂（5）、力量之魂（5）、视域之魂（5）合成
 	MiracleFruit: 使用生命碎片（12）、生命果（5）、生命合金（5）、猎捕花苞（5）合成
@@ -19,31 +19,31 @@ Acquisition: {
 	MushroomPlasmaRoot: 复仇或死亡模式下从菌生蟹的宝藏袋中获得
 	InfernalBlood: 复仇或死亡模式下从毁灭魔像的宝藏袋中获得
 	RedLightningContainer: 复仇或死亡模式下从痴愚金龙的宝藏袋中获得
-	ElectrolyteGelPack: 复仇或死亡模式下从史莱姆之神的宝藏袋中获得
+	ElectrolyteGelPack: 复仇或死亡模式下从史莱姆之神（灾厄）的宝藏袋中获得
 	StarlightFuelCell: 复仇或死亡模式下从白金星舰的宝藏袋中获得
 	Ectoheart: 复仇或死亡模式下从噬魂幽花的宝藏袋中获得
 	CelestialOnion: 月亮领主掉落
 	InspirationEssence: 在远古操纵机处使用海洋精华（1）、死亡精华（1）、狱火精华（1）与灵感碎片（1）合成
 	SingularityCore: 在远古操纵机处使用魂魄之心（2）、夜明锭（10）与赤岩鳞片（10）合成
-	// RuinousPlasmaInjection: Combine 1 Armored Shell, 1 Dark Plasma and 1 Ruinous Soul at at Ancient Manipulator
-	// SunsHeart: Obtained by defeating Slime God
-	// GreatCrystal: Combine 8 Tank of the Past Cave, 1 Mana Crystal and 1 each of gem at Final Anvil
-	// AirHandcanon: Combine 8 Tank of the Past Sky and 20 any iron bar at Final Anvil
-	// HotCase: Combine 8 Tank of the Past Underworld and 999 Musket Ball at Final Anvil
-	// WhimInABottle: Combine 1 Bottle, 8 Tank of the Past Underworld and 6 Will to Grow at Final Anvil
-	// TheSwitch: Combine 1 Cold Blood, 1 Whale Bone Charm, 8 Essence of Nothingness, 8 Essence of Upshot at Final Anvil
-	// Americano: Combine 1 Bottled Water, 12 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
-	// Latte: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 12 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
-	// Mocha: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 12 Sweat Coffee Bean, 3 Turbid Coffee Bean
-	// Cappuccino: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 32 Turbid Coffee Bean
-	// RabiesVaccine: Combine 30 Rabies Shot at Placed Bottle or Alchemy Table
-	// DeerSinew: Drops from Deerclops in Eternity Mode only
-	// MutantsDiscountCard: Drops from Wall of Flesh in Eternity Mode only
-	// MutantsCreditCard: Drops from Duke Fishron in Eternity Mode only
-	// MutantsPact: Drops from Lunatic Cultist in Eternity Mode only
-	// MedicKit: Drops from Patient Zero
-	// GalaxyHeart: Drops from Nebuleus
-	// ShellShipInBottle_Shimmered: Shimmer Shell Ship In Bottle
-	// WeatherBook: Combine 1 Book, 50 Cloud, 20 Rain Cloud, 3 Fallen Star, 5 Any Shadow Scale at Work Bench
-	// AshenSoul: AshenSoul
+	RuinousPlasmaInjection: 在远古操纵机处使用装甲外壳（1）、暗离子体（1）与毁灭之灵（1）合成
+	SunsHeart: 击败史莱姆之神（旅人归途）掉落
+	GreatCrystal: 在最终金属砧处使用古老地底之罐（8）、魔力水晶（1）与每种宝石各一个合成
+	AirHandcanon: 在最终金属砧处使用古老天空之罐（8）与任何铁锭（20）合成
+	HotCase: 在最终金属砧处使用古老下界之罐（8）与火枪子弹（999）合成
+	WhimInABottle: 在最终金属砧处使用玻璃瓶（1）、古老下界之罐（8）与腐蚀意志/增长意志（6）合成
+	TheSwitch: 在最终金属砧处使用冷血（1）、鲸骨护身符（1）、非有精华（8）与薄冢精华（8）合成
+	Americano: 在放置的瓶子或炼药桌处使用瓶装水（1）、苦涩咖啡豆（12）、奶油咖啡豆（1）、甜蜜咖啡豆（1）与浑浊咖啡豆（3）合成
+	Latte: 在放置的瓶子或炼药桌处使用瓶装水（1）、苦涩咖啡豆（1）、奶油咖啡豆（12）、甜蜜咖啡豆（1）与浑浊咖啡豆（3）合成
+	Mocha: 在放置的瓶子或炼药桌处使用瓶装水（1）、苦涩咖啡豆（1）、奶油咖啡豆（1）、甜蜜咖啡豆（12）与浑浊咖啡豆（3）合成
+	Cappuccino: 在放置的瓶子或炼药桌处使用瓶装水（1）、苦涩咖啡豆（1）、奶油咖啡豆（1）、甜蜜咖啡豆（1）与浑浊咖啡豆（32）合成
+	RabiesVaccine: 在放置的瓶子或炼药桌处使用狂犬疫苗（30）合成
+	DeerSinew: 永恒模式下击败独眼巨鹿掉落
+	MutantsDiscountCard: 永恒模式下击败血肉墙掉落
+	MutantsCreditCard: 永恒模式下击败猪龙鱼公爵掉落
+	MutantsPact: 永恒模式下击败拜月教邪教徒掉落
+	MedicKit: 击败零号病患掉落
+	GalaxyHeart: 击败涅布琉斯，星宇天使掉落
+	ShellShipInBottle_Shimmered: 微光嬗变瓶中贝壳船获得
+	WeatherBook: 在工作台处使用书（1）、云（50）、雨云（20）、坠落之星（3）与暗影鳞片/组织样本（5）合成
+	AshenSoul: 烬灰金源魄（暂译）
 }
