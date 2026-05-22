@@ -93,6 +93,7 @@ public class MunchiesAuricSoulsAddon : Mod
     private void AddCalamityConsumables(Mod munchies)
     {
         if (!ModLoader.TryGetMod("CalamityMod", out Mod cal)) return;
+        string rev = Language.GetTextValue("Mods.MunchiesAuricSoulsAddon.Difficulty.Calamity");
         // Health
         RegisterConsumable(munchies, cal, "MiracleFruit", "CalamityPlayer", "mFruit");
         RegisterConsumable(munchies, cal, cal.Version < new Version(2, 1) ? "BloodOrange" : "SanguineTangerine", "CalamityPlayer", "sTangerine");
@@ -107,12 +108,12 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumable(munchies, cal, "EtherealCore", "CalamityPlayer", "eCore");
         RegisterConsumable(munchies, cal, "PhantomHeart", "CalamityPlayer", "pHeart");
         // Rage & Adrenaline
-        RegisterConsumable(munchies, cal, "MushroomPlasmaRoot", "CalamityPlayer", "rageBoostOne", Color.Red, "Revengeance", "RageEnabled");
-        RegisterConsumable(munchies, cal, "InfernalBlood", "CalamityPlayer", "rageBoostTwo", Color.Red, "Revengeance", "RageEnabled");
-        RegisterConsumable(munchies, cal, "RedLightningContainer", "CalamityPlayer", "rageBoostThree", Color.Red, "Revengeance", "RageEnabled");
-        RegisterConsumable(munchies, cal, "ElectrolyteGelPack", "CalamityPlayer", "adrenalineBoostOne", Color.Red, "Revengeance", "AdrenalineEnabled");
-        RegisterConsumable(munchies, cal, "StarlightFuelCell", "CalamityPlayer", "adrenalineBoostTwo", Color.Red, "Revengeance", "AdrenalineEnabled");
-        RegisterConsumable(munchies, cal, "Ectoheart", "CalamityPlayer", "adrenalineBoostThree", Color.Red, "Revengeance", "AdrenalineEnabled");
+        RegisterConsumable(munchies, cal, "MushroomPlasmaRoot", "CalamityPlayer", "rageBoostOne", Color.Red, rev, "RageEnabled");
+        RegisterConsumable(munchies, cal, "InfernalBlood", "CalamityPlayer", "rageBoostTwo", Color.Red, rev, "RageEnabled");
+        RegisterConsumable(munchies, cal, "RedLightningContainer", "CalamityPlayer", "rageBoostThree", Color.Red, rev, "RageEnabled");
+        RegisterConsumable(munchies, cal, "ElectrolyteGelPack", "CalamityPlayer", "adrenalineBoostOne", Color.Red, rev, "AdrenalineEnabled");
+        RegisterConsumable(munchies, cal, "StarlightFuelCell", "CalamityPlayer", "adrenalineBoostTwo", Color.Red, rev, "AdrenalineEnabled");
+        RegisterConsumable(munchies, cal, "Ectoheart", "CalamityPlayer", "adrenalineBoostThree", Color.Red, rev, "AdrenalineEnabled");
         // Acc Slot
         RegisterConsumable(munchies, cal, "CelestialOnion", "CalamityPlayer", "extraAccessoryML");
     }
@@ -201,11 +202,12 @@ public class MunchiesAuricSoulsAddon : Mod
     private void AddFargoConsumables(Mod munchies)
     {
         if (!ModLoader.TryGetMod("FargowiltasSouls", out Mod fargo)) return;
-        RegisterConsumable(munchies, fargo, "RabiesVaccine", "FargoSoulsPlayer", "RabiesVaccine", new Color(51, 255, 191), "Eternity", category: "Fargo's Souls Mod");
-        RegisterConsumable(munchies, fargo, "DeerSinew", "FargoSoulsPlayer", "DeerSinew", new Color(51, 255, 191), "Eternity", category: "Fargo's Souls Mod");
-        RegisterConsumable(munchies, fargo, "MutantsDiscountCard", "FargoSoulsPlayer", "MutantsDiscountCard", new Color(51, 255, 191), "Eternity", category: "Fargo's Souls Mod");
-        RegisterConsumable(munchies, fargo, "MutantsCreditCard", "FargoSoulsPlayer", "MutantsCreditCard", new Color(51, 255, 191), "Eternity", category: "Fargo's Souls Mod");
-        RegisterConsumable(munchies, fargo, "MutantsPact", "FargoSoulsPlayer", "MutantsPactSlot", new Color(51, 255, 191), "Eternity", category: "Fargo's Souls Mod", isIntCheck: false);
+        string eternity = Language.GetTextValue("Mods.MunchiesAuricSoulsAddon.Difficulty.Fargo");
+        RegisterConsumable(munchies, fargo, "RabiesVaccine", "FargoSoulsPlayer", "RabiesVaccine", new Color(51, 255, 191), eternity, category: "Fargo's Souls Mod");
+        RegisterConsumable(munchies, fargo, "DeerSinew", "FargoSoulsPlayer", "DeerSinew", new Color(51, 255, 191), eternity, category: "Fargo's Souls Mod");
+        RegisterConsumable(munchies, fargo, "MutantsDiscountCard", "FargoSoulsPlayer", "MutantsDiscountCard", new Color(51, 255, 191), eternity, category: "Fargo's Souls Mod");
+        RegisterConsumable(munchies, fargo, "MutantsCreditCard", "FargoSoulsPlayer", "MutantsCreditCard", new Color(51, 255, 191), eternity, category: "Fargo's Souls Mod");
+        RegisterConsumable(munchies, fargo, "MutantsPact", "FargoSoulsPlayer", "MutantsPactSlot", new Color(51, 255, 191), eternity, category: "Fargo's Souls Mod", isIntCheck: false);
     }
 
     private void AddRedemptionConsumables(Mod munchies)

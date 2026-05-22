@@ -36,6 +36,7 @@ Acquisition: {
 	AirHandcanon: Combine 8 Tank of the Past Sky and 20 any iron bar at Final Anvil
 	HotCase: Combine 8 Tank of the Past Underworld and 999 Musket Ball at Final Anvil
 	WhimInABottle: Combine 1 Bottle, 8 Tank of the Past Underworld and 6 Will to Grow at Final Anvil
+	HeartOfOcean: Drops from Diver
 	TheSwitch: Combine 1 Cold Blood, 1 Whale Bone Charm, 8 Essence of Nothingness, 8 Essence of Upshot at Final Anvil
 	Americano: Combine 1 Bottled Water, 12 Bitter Coffee Bean, 1 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
 	Latte: Combine 1 Bottled Water, 1 Bitter Coffee Bean, 12 Creamy Coffee Bean, 1 Sweat Coffee Bean, 3 Turbid Coffee Bean
@@ -50,5 +51,9 @@ Acquisition: {
 	GalaxyHeart: Drops from Nebuleus
 	ShellShipInBottle_Shimmered: Shimmer Shell Ship In Bottle
 	WeatherBook: Combine 1 Book, 50 Cloud, 20 Rain Cloud, 3 Fallen Star, 5 Any Shadow Scale at Work Bench
-	HeartOfOcean: Drops from Diver
+}
+
+Difficulty: {
+	Fargo: Eternity
+	Calamity: Revengeance
 }
