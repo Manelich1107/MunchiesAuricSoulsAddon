@@ -52,3 +52,8 @@ Acquisition: {
 	WeatherBook: 在工作台处使用书（1）、云（50）、雨云（20）、坠落之星（3）与暗影鳞片/组织样本（5）合成
 	HeartOfOcean: 专家或大师难度下从深潜者的宝藏袋中获得
 }
+
+Difficulty: {
+	Fargo: 永恒
+	Calamity: 复仇
+}
