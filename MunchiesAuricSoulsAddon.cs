@@ -129,6 +129,14 @@ public class MunchiesAuricSoulsAddon : Mod
                 () => { GetInspirationConsumeParameters(ragnarok, "InspirationEssence", Main.LocalPlayer, out _, out int t); return t; },
                 GetLoc("InspirationEssence"));
         }
+
+        if (ragnarok.TryFind("InspirationSingularity", out ModItem singularity))
+        {
+            CallMunchiesMulti(munchies, ragnarok, singularity,
+                () => { GetInspirationConsumeParameters(ragnarok, "InspirationSingularity", Main.LocalPlayer, out int c, out _); return c; },
+                () => { GetInspirationConsumeParameters(ragnarok, "InspirationSingularity", Main.LocalPlayer, out _, out int t); return t; },
+                GetLoc("InspirationSingularity"));
+        }
     }
 
     private void AddInfernalEclipseConsumables(Mod munchies)
