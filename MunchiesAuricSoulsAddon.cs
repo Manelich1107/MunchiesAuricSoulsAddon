@@ -115,7 +115,13 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumable(munchies, cal, "StarlightFuelCell", "CalamityPlayer", "adrenalineBoostTwo", Color.Red, rev, "AdrenalineEnabled");
         RegisterConsumable(munchies, cal, "Ectoheart", "CalamityPlayer", "adrenalineBoostThree", Color.Red, rev, "AdrenalineEnabled");
         // Acc Slot
-        RegisterConsumable(munchies, cal, "CelestialOnion", "CalamityPlayer", "extraAccessoryML");
+        if (cal.TryFind("CelestialOnion", out ModItem onion))
+        {
+            CallMunchiesSingle(munchies, cal, onion,
+                consumed: () => Main.masterMode || GetModPlayerValue<bool>(cal, Main.LocalPlayer, "CalamityPlayer", "extraAccessoryML"),
+                GetLoc("CelestialOnion"),
+                avail: () => !Main.masterMode);
+        }
     }
 
     private void AddRagnarokConsumables(Mod munchies)
@@ -174,6 +180,17 @@ public class MunchiesAuricSoulsAddon : Mod
                 () => GetModPlayerValue<int>(sots, Main.LocalPlayer, "VoidPlayer", "voidSoul") >= 1,
                 GetLoc("SoulHeart"));
         }
+
+        DrawAPI.RegisterCategory("NatureConduit", Language.GetOrRegister("Mods.MunchiesAuricSoulsAddon.Categories.SOTSConduits"));
+        string imgPath = "MunchiesAuricSoulsAddon/Assets/ConduitExample";
+        RegisterConsumableWithImage(munchies, sots, "NatureConduit", "ConduitPlayer", "NatureBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "EarthenConduit", "ConduitPlayer", "EarthBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "PermafrostConduit", "ConduitPlayer", "PermafrostBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "OtherworldConduit", "ConduitPlayer", "OtherworldBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "TidalConduit", "ConduitPlayer", "TideBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "EvilConduit", "ConduitPlayer", "EvilBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "InfernoConduit", "ConduitPlayer", "InfernoBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "ChaosConduit", "ConduitPlayer", "ChaosBoosted", imgPath, Color.Gray);
     }
 
     private void RegisterSOTSMultiUseConsumable(Mod munchies, Mod sots, string itemName, string fieldName, int totalUses)
@@ -249,6 +266,17 @@ public class MunchiesAuricSoulsAddon : Mod
 
             Mod finalTabMod = displayMod ?? targetMod;
             CallMunchiesSingle(munchies, finalTabMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availabilityCheck, category);
+        }
+    }
+
+    private void RegisterConsumableWithImage(Mod munchies, Mod targetMod, string itemName, string className, string fieldName, string imagePath, Color? color = null)
+    {
+        if (targetMod.TryFind(itemName, out ModItem item))
+        {
+            Func<bool> consumedCheck = () => GetModPlayerValue<bool>(targetMod, Main.LocalPlayer, className, fieldName);
+
+            CallMunchiesSingle(munchies, targetMod, item, consumedCheck, GetLoc(itemName), color);
+            DrawAPI.RegisterImage(itemName, imagePath);
         }
     }
 
