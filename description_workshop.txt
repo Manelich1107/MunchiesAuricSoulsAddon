@@ -37,6 +37,7 @@ This mod works as a permanent power-ups tracker for multiple mods. Right now, th
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok Mod[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationEssence.png[/img] Inspiration Essence
+[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationSingularity.png[/img] Inspiration Singularity
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/b]
 [list]
@@ -49,6 +50,7 @@ This mod works as a permanent power-ups tracker for multiple mods. Right now, th
 [*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/ScarletStar.png[/img] Scarlet Crescent
 [*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] Voiden Ankh
 [*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] Soul Heart
+[spoiler] Conduits are also supported now! [/spoiler]
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]Homeward Journey[/url][/b]
 [list]

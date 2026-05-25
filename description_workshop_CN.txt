@@ -37,6 +37,7 @@
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]诸神的黄昏[/url][/b]
 [list]
 [*][img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationEssence.png[/img] 灵感精髓
+[*][img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationSingularity.png[/img] 灵感奇点
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url][/b]
 [list]
@@ -49,6 +50,7 @@
 [*][img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/ScarletStar.png[/img] 绯红新月
 [*][img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] 虚空十字章
 [*][img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] 魂魄之心
+[spoiler] 现在也支持暗影奥秘的导管了 [/spoiler]
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]旅人归途[/url][/b]
 [list]
@@ -77,7 +79,7 @@
 [*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Medic_Kit.png[/img] 医疗包
 [*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Galaxy_Heart.png[/img] 银河之心
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]Quality of Terraria[/url][/b]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]更好的体验[/url][/b]
 [list]
 [*][img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/WeatherBook.png[/img] 天气之书
 [*][img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] 瓶中微光船

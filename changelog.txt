@@ -1,5 +1,2 @@
 Version：{ModVersion}
-Added A LOOOOT OF mod supports!
-Right now we have Calamity, Hunt of the Old God, Community Remix, Wrath of the Gods, Ragnarok, Infernal Eclipse of Ragnarok, Secrets of the Shadows, Homeward Journey, Fargo's Souls, Redemption, Quality of Terraria.
-Maybe more mod supports will be added in the future.
-Many thanks to Kes for upgrading this :)
+Added SotS conduit support & Russian localization (wip)

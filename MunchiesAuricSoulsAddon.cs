@@ -186,8 +186,8 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumableWithImage(munchies, sots, "NatureConduit", "ConduitPlayer", "NatureBoosted", imgPath, Color.Gray);
         RegisterConsumableWithImage(munchies, sots, "EarthenConduit", "ConduitPlayer", "EarthBoosted", imgPath, Color.Gray);
         RegisterConsumableWithImage(munchies, sots, "PermafrostConduit", "ConduitPlayer", "PermafrostBoosted", imgPath, Color.Gray);
-        RegisterConsumableWithImage(munchies, sots, "OtherworldConduit", "ConduitPlayer", "OtherworldBoosted", imgPath, Color.Gray);
         RegisterConsumableWithImage(munchies, sots, "TidalConduit", "ConduitPlayer", "TideBoosted", imgPath, Color.Gray);
+        RegisterConsumableWithImage(munchies, sots, "OtherworldConduit", "ConduitPlayer", "OtherworldBoosted", imgPath, Color.Gray);
         RegisterConsumableWithImage(munchies, sots, "EvilConduit", "ConduitPlayer", "EvilBoosted", imgPath, Color.Gray);
         RegisterConsumableWithImage(munchies, sots, "InfernoConduit", "ConduitPlayer", "InfernoBoosted", imgPath, Color.Gray);
         RegisterConsumableWithImage(munchies, sots, "ChaosConduit", "ConduitPlayer", "ChaosBoosted", imgPath, Color.Gray);

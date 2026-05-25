@@ -1,6 +1,6 @@
 displayName = Munchies Crossmod Addon
 author = Pudd1ng, Kes
-version = 2.0
+version = 2.1
 modReferences = Munchies
 weakReferences = CalamityMod, CalamityHunt, NoxusBoss, RagnarokMod, InfernalEclipseAPI, SOTS, ContinentOfJourney, FargowiltasSouls, Redemption, ImproveGame
 side = Client
