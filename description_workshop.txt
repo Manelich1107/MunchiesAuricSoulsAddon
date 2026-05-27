@@ -3,89 +3,85 @@ You need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]
 This mod works as a permanent power-ups tracker for multiple mods. Right now, the mods can track the following consumables.
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] Celestial Onion
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CometShard.png[/img] Comet Shard
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] Ectoheart
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] Electrolyte Gel Pack
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] Ethereal Core
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] Infernal Blood
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] Miracle Fruit
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] Mushroom Plasma Root
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] Phantom Heart
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] Red Lightning Container
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] Sacred Strawberry
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] Sanguine Tangerine
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] Starlight Fuel Cell
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] Tainted Cloudberry
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] Celestial Onion
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/CometShard.png[/img] Comet Shard
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] Ectoheart
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] Electrolyte Gel Pack
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] Ethereal Core
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] Infernal Blood
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] Miracle Fruit
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] Mushroom Plasma Root
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] Phantom Heart
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] Red Lightning Container
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] Sacred Strawberry
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] Sanguine Tangerine
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] Starlight Fuel Cell
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] Tainted Cloudberry
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]Calamity: Hunt of the Old God[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/YharonSoul.png[/img] Rebirth Auric Soul
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/GoozmaSoul.png[/img] Chromatic Auric Soul
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/RottenSoul.png[/img] Rotten Auric Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/YharonSoul.png[/img] Rebirth Auric Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/GoozmaSoul.png[/img] Chromatic Auric Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/RottenSoul.png[/img] Rotten Auric Soul
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956324268]Calamity: Community Remix[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AshenSoul.png[/img] Ashen Auric Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/AshenSoul.png[/img] Ashen Auric Soul
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]Calamity: Wrath of the Gods[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AvatarAuricSoul.png[/img] Grotesque Auric Soul
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/NamelessAuricSoul.png[/img] Supreme Auric Soul
-[*] [img]https://raw.githubusercontent.com/TheFifthCircle/WrathOfTheGodsPublic/main/icon_small.png[/img] Good Apple
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/AvatarAuricSoul.png[/img] Grotesque Auric Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/NamelessAuricSoul.png[/img] Supreme Auric Soul
+[*][img]https://cdn.jsdelivr.net/gh/TheFifthCircle/WrathOfTheGodsPublic/icon_small.png[/img] Good Apple
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok Mod[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationEssence.png[/img] Inspiration Essence
-[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationSingularity.png[/img] Inspiration Singularity
+[*][img]https://cdn.jsdelivr.net/gh/CrafterDaemon/RagnarokMod/Items/BardItems/Consumable/InspirationEssence.png[/img] Inspiration Essence
+[*][img]https://cdn.jsdelivr.net/gh/CrafterDaemon/RagnarokMod/Items/BardItems/Consumable/InspirationSingularity.png[/img] Inspiration Singularity
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] Singularity Core
-[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Ruinous Plasma Injection
+[*][img]https://cdn.jsdelivr.net/gh/darianhughes/InfernalEclipseAPI/Content/Items/PermanentBoosters/SingularityCore.png[/img] Singularity Core
+[*][img]https://cdn.jsdelivr.net/gh/darianhughes/InfernalEclipseAPI/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Ruinous Plasma Injection
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]Secrets Of The Shadows[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VioletStar.png[/img] Violet Crescent
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/ScarletStar.png[/img] Scarlet Crescent
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] Voiden Ankh
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] Soul Heart
-[spoiler] Conduits are also supported now! [/spoiler]
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/VioletStar.png[/img] Violet Crescent
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/ScarletStar.png[/img] Scarlet Crescent
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/VoidenAnkh.png[/img] Voiden Ankh
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/SoulHeart.png[/img] Soul Heart
+[*][spoiler]Conduits are also supported now![/spoiler]
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]Homeward Journey[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Americano.png[/img] Americano
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Cappuccino.png[/img] Cappuccino
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Latte.png[/img] Latte
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Mocha.png[/img] Mocha
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Eye_of_the_Ocean.png[/img] Eye of the Ocean
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Sun's_Heart.png[/img] Sun's Heart
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Air_Handcannon.png[/img] Air Handcanon
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Grand_Crystal.png[/img] Grand Crystal
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Hot_Case.png[/img] Hot Case
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/The_Switch.png[/img] The Switch
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Whim_in_a_Bottle.png[/img] Whim in a Bottle
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Americano.png[/img] Americano
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Cappuccino.png[/img] Cappuccino
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Latte.png[/img] Latte
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Mocha.png[/img] Mocha
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Eye_of_the_Ocean.png[/img] Eye of the Ocean
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Sun's_Heart.png[/img] Sun's Heart
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Air_Handcannon.png[/img] Air Handcanon
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Grand_Crystal.png[/img] Grand Crystal
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Hot_Case.png[/img] Hot Case
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/The_Switch.png[/img] The Switch
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Whim_in_a_Bottle.png[/img] Whim in a Bottle
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735]Fargo's Souls Mod[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/MutantsPact.png[/img] Mutants Pact
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsDiscountCard.png[/img] Mutants Discount Card
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsCreditCard.png[/img] Mutant Credit Card
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/RabiesVaccine.png[/img] Rabies Vaccine
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/DeerSinew.png[/img] Deer Sinew
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/MutantsPact.png[/img] Mutants Pact
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/MutantsDiscountCard.png[/img] Mutants Discount Card
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/MutantsCreditCard.png[/img] Mutant Credit Card
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/RabiesVaccine.png[/img] Rabies Vaccine
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/DeerSinew.png[/img] Deer Sinew
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653]Mod of Redemption[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Medic_Kit.png[/img] Medic Kit
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Galaxy_Heart.png[/img] Galaxy Heart
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Medic_Kit.png[/img] Medic Kit
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Galaxy_Heart.png[/img] Galaxy Heart
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]Quality of Terraria[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/WeatherBook.png[/img] Weather Book
-[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Shimmered Ship In Bottle
-[/list]
-v2.0 update:
-[list]
-[*] Added support for multiple other mods!
+[*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/WeatherBook.png[/img] Weather Book
+[*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Shimmered Ship In Bottle
 [/list]
 Enjoy!

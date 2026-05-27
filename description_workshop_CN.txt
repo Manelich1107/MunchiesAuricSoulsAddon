@@ -3,89 +3,85 @@
 本模组用于追踪多个模组中的永久强化消耗品。目前支持追踪以下物品。
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]灾厄[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] 天体洋葱
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CometShard.png[/img] 彗星碎片
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] 幽魂之心
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] 电磁凝胶包
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] 飘渺之核
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] 地狱之血
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] 奇迹之果
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] 蘑菇根质
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] 幻影之心
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] 电刑之容
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] 圣佑草莓
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] 沐血柑橘
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] 星光能量核心
-[*][img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] 污浊云莓
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] 天体洋葱
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/CometShard.png[/img] 彗星碎片
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] 幽魂之心
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] 电磁凝胶包
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] 飘渺之核
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] 地狱之血
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] 奇迹之果
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] 蘑菇根质
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] 幻影之心
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] 电刑之容
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] 圣佑草莓
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] 沐血柑橘
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] 星光能量核心
+[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] 污浊云莓
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]灾厄：旧神之猎[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/YharonSoul.png[/img] 重生金源魄
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/GoozmaSoul.png[/img] 虹彩金源魄
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/RottenSoul.png[/img] 污朽金源魄
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/YharonSoul.png[/img] 重生金源魄
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/GoozmaSoul.png[/img] 虹彩金源魄
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/RottenSoul.png[/img] 污朽金源魄
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956324268]灾厄：社区混合[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AshenSoul.png[/img] 烬灰金源魄
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/AshenSoul.png[/img] 烬灰金源魄
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]灾厄：众神之怒[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AvatarAuricSoul.png[/img] 谬诞金源魄
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/NamelessAuricSoul.png[/img] 无上金源魄
-[*][img]https://raw.githubusercontent.com/TheFifthCircle/WrathOfTheGodsPublic/main/icon_small.png[/img] Good Apple
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/AvatarAuricSoul.png[/img] 谬诞金源魄
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/NamelessAuricSoul.png[/img] 无上金源魄
+[*][img]https://cdn.jsdelivr.net/gh/TheFifthCircle/WrathOfTheGodsPublic/icon_small.png[/img] Good Apple
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]诸神的黄昏[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationEssence.png[/img] 灵感精髓
-[*][img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationSingularity.png[/img] 灵感奇点
+[*][img]https://cdn.jsdelivr.net/gh/CrafterDaemon/RagnarokMod/Items/BardItems/Consumable/InspirationEssence.png[/img] 灵感精髓
+[*][img]https://cdn.jsdelivr.net/gh/CrafterDaemon/RagnarokMod/Items/BardItems/Consumable/InspirationSingularity.png[/img] 灵感奇点
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] 奇异核心
-[*][img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] 毁灭等离子体注射器
+[*][img]https://cdn.jsdelivr.net/gh/darianhughes/InfernalEclipseAPI/Content/Items/PermanentBoosters/SingularityCore.png[/img] 奇异核心
+[*][img]https://cdn.jsdelivr.net/gh/darianhughes/InfernalEclipseAPI/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] 毁灭等离子体注射器
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]暗影奥秘[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VioletStar.png[/img] 紫罗兰新月
-[*][img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/ScarletStar.png[/img] 绯红新月
-[*][img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] 虚空十字章
-[*][img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] 魂魄之心
-[spoiler] 现在也支持暗影奥秘的导管了 [/spoiler]
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/VioletStar.png[/img] 紫罗兰新月
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/ScarletStar.png[/img] 绯红新月
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/VoidenAnkh.png[/img] 虚空十字章
+[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/SoulHeart.png[/img] 魂魄之心
+[*][spoiler]现在也支持暗影奥秘的导管了[/spoiler]
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]旅人归途[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Americano.png[/img] 美式咖啡
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Cappuccino.png[/img] 卡布奇诺咖啡
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Latte.png[/img] 拿铁咖啡
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Mocha.png[/img] 摩卡咖啡
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Eye_of_the_Ocean.png[/img] 海洋之眼
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Sun's_Heart.png[/img] 太阳心
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Air_Handcannon.png[/img] 空气手炮
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Grand_Crystal.png[/img] 伟大水晶
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Hot_Case.png[/img] 烫手弹匣
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/The_Switch.png[/img] 开关
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Whim_in_a_Bottle.png[/img] 瓶中奇想
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Americano.png[/img] 美式咖啡
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Cappuccino.png[/img] 卡布奇诺咖啡
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Latte.png[/img] 拿铁咖啡
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Mocha.png[/img] 摩卡咖啡
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Eye_of_the_Ocean.png[/img] 海洋之眼
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Sun's_Heart.png[/img] 太阳心
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Air_Handcannon.png[/img] 空气手炮
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Grand_Crystal.png[/img] 伟大水晶
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Hot_Case.png[/img] 烫手弹匣
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/The_Switch.png[/img] 开关
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Whim_in_a_Bottle.png[/img] 瓶中奇想
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735]Fargo魂石[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/MutantsPact.png[/img] 突变体契约
-[*][img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsDiscountCard.png[/img] 突变体的优惠卡
-[*][img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsCreditCard.png[/img] 突变体的信用卡
-[*][img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/RabiesVaccine.png[/img] 狂犬病疫苗
-[*][img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/DeerSinew.png[/img] 鹿筋
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/MutantsPact.png[/img] 突变体契约
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/MutantsDiscountCard.png[/img] 突变体的优惠卡
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/MutantsCreditCard.png[/img] 突变体的信用卡
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/RabiesVaccine.png[/img] 狂犬病疫苗
+[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/DeerSinew.png[/img] 鹿筋
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653]救赎[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Medic_Kit.png[/img] 医疗包
-[*][img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Galaxy_Heart.png[/img] 银河之心
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Medic_Kit.png[/img] 医疗包
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Galaxy_Heart.png[/img] 银河之心
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]更好的体验[/url][/b]
 [list]
-[*][img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/WeatherBook.png[/img] 天气之书
-[*][img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] 瓶中微光船
-[/list]
-v2.0 更新内容：
-[list]
-[*] 新增对多个其他模组的兼容！
+[*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/WeatherBook.png[/img] 天气之书
+[*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] 瓶中微光船
 [/list]
 饮坠！

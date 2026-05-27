@@ -32,37 +32,37 @@ Acquisition: {
 	ScarletStar: 在邪恶祭坛处使用液化陆地（1）、魔力水晶（1）、邪恶碎片（5）、外世碎片（5）与组织样本（15）合成
 	VoidenAnkh: 在铁砧处使用诅咒物质（10）、灵魂残渣（10）与唤灵石（20）合成
 	SoulHeart: 在蜕变祭坛处使用生命水晶（1）与跃空之魂（100）合成
-		ChaosConduit: 		
+	ChaosConduit:
 		'''
 		使用混沌导管、导管底架（21）和光辉块（21）搭建一个多方块结构
 		（右键以查看该结构）
 		'''
-	InfernoConduit: 		
+	InfernoConduit:
 		'''
 		使用炼狱导管、导管底架（21）和下界块（21）搭建一个多方块结构
 		（右键以查看该结构）
 		'''
-	EvilConduit: 		
+	EvilConduit:
 		'''
 		使用邪恶导管、导管底架（21）和本影块（21）搭建一个多方块结构
 		（右键以查看该结构）
 		'''
-	TidalConduit: 		
+	TidalConduit:
 		'''
 		使用潮汐导管、导管底架（21）和洪水块（21）搭建一个多方块结构
 		（右键以查看该结构）
 		'''
-	OtherworldConduit: 		
+	OtherworldConduit:
 		'''
 		使用外世导管、导管底架（21）和以太块（21）搭建一个多方块结构
 		（右键以查看该结构）
 		'''
-	PermafrostConduit: 
+	PermafrostConduit:
 		'''
 		使用永冻导管、导管底架（21）和极光块（21）搭建一个多方块结构
 		（右键以查看该结构）
 		'''
-	EarthenConduit: 
+	EarthenConduit:
 		'''
 		使用陆地导管、导管底架（21）和陆地块（21）搭建一个多方块结构
 		（右键以查看该结构）
@@ -77,6 +77,7 @@ Acquisition: {
 	AirHandcanon: 在最终金属砧处使用古老天空之罐（8）与任何铁锭（20）合成
 	HotCase: 在最终金属砧处使用古老下界之罐（8）与火枪子弹（999）合成
 	WhimInABottle: 在最终金属砧处使用玻璃瓶（1）、古老下界之罐（8）与腐蚀意志/增长意志（6）合成
+	HeartOfOcean: 专家或大师难度下从深潜者的宝藏袋中获得
 	TheSwitch: 在最终金属砧处使用冷血（1）、鲸骨护身符（1）、非有精华（8）与薄冢精华（8）合成
 	Americano: 在放置的瓶子或炼药桌处使用瓶装水（1）、苦涩咖啡豆（12）、奶油咖啡豆（1）、甜蜜咖啡豆（1）与浑浊咖啡豆（3）合成
 	Latte: 在放置的瓶子或炼药桌处使用瓶装水（1）、苦涩咖啡豆（1）、奶油咖啡豆（12）、甜蜜咖啡豆（1）与浑浊咖啡豆（3）合成
@@ -91,7 +92,6 @@ Acquisition: {
 	GalaxyHeart: 击败涅布琉斯，星宇天使掉落
 	ShellShipInBottle_Shimmered: 微光嬗变瓶中贝壳船获得
 	WeatherBook: 在工作台处使用书（1）、云（50）、雨云（20）、坠落之星（3）与暗影鳞片/组织样本（5）合成
-	HeartOfOcean: 专家或大师难度下从深潜者的宝藏袋中获得
 }
 
 Difficulty: {

@@ -32,37 +32,37 @@ Acquisition: {
 	ScarletStar: Craft with Dissolving Earth, Mana Crystal, Fragment of Evil (5), Fragment of Otherworld (5), and Tissue Sample (15) at an Evil Altar
 	VoidenAnkh: Craft with Cursed Matter (10), Soul Residue (10), and Evostone (20) at an Anvil
 	SoulHeart: Craft with Life Crystal and Skip Soul (100) at the Transmutation Altar
-	ChaosConduit: 		
+	ChaosConduit:
 		'''
 		Create a construction using Chaos Conduit, 21 Conduit Chassis and 21 Brilliance Block 
 		(Right Click to see the construction)
 		'''
-	InfernoConduit: 		
+	InfernoConduit:
 		'''
 		Create a construction using Inferno Conduit, 21 Conduit Chassis and 21 Nether Block 
 		(Right Click to see the construction)
 		'''
-	EvilConduit: 		
+	EvilConduit:
 		'''
 		Create a construction using Evil Conduit, 21 Conduit Chassis and 21 Umbra Block 
 		(Right Click to see the construction)
 		'''
-	TidalConduit: 		
+	TidalConduit:
 		'''
 		Create a construction using Tide Conduit, 21 Conduit Chassis and 21 Deluge Block 
 		(Right Click to see the construction)
 		'''
-	OtherworldConduit: 		
+	OtherworldConduit:
 		'''
 		Create a construction using Otherworld Conduit, 21 Conduit Chassis and 21 Aether Block 
 		(Right Click to see the construction)
 		'''
-	PermafrostConduit: 
+	PermafrostConduit:
 		'''
 		Create a construction using Permafrost Conduit, 21 Conduit Chassis and 21 Aurora Block 
 		(Right Click to see the construction)
 		'''
-	EarthenConduit: 
+	EarthenConduit:
 		'''
 		Create a construction using Earth Conduit, 21 Conduit Chassis and 21 Earth Block 
 		(Right Click to see the construction)

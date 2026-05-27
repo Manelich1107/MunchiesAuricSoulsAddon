@@ -1,0 +1,93 @@
+[h1]Munchies Crossmod Addon[/h1]
+Для работы мода требуется [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies[/url].
+Этот мод добавляет постоянные улучшения из разных модов в журнал Munchies. С полным списком совместимых модов и добавленных из них расходников можно ознакомиться ниже.
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] Неземная луковица
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CometShard.png[/img] Осколок кометы
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] Эктосердце
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] Пакет с гелевым электролитом
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] Эфирное ядро
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] Инфернальная кровь
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] Чудо-фрукт
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] Грибной плазменный корень
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] Фантомное сердце
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] Контейнер с красной молнией
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] Священная клубника
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] Кровавый мандарин
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] Топливная ячейка звёздного света
+[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] Осквернённая морошка
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]Calamity: Hunt of the Old God[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/YharonSoul.png[/img] Возрождённая ауритовая душа
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/GoozmaSoul.png[/img] Хроматическая ауритовая душа
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/RottenSoul.png[/img] Сгнившая ауритовая душа
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956324268]Calamity: Community Remix[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AshenSoul.png[/img] Пепельная ауритовая душа (Ashen Auric Soul)
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]Calamity: Wrath of the Gods[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AvatarAuricSoul.png[/img] Гротескная ауритовая душа
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/NamelessAuricSoul.png[/img] Высшая ауритовая душа
+[*] [img]https://raw.githubusercontent.com/TheFifthCircle/WrathOfTheGodsPublic/main/icon_small.png[/img] Хорошее яблоко
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok Mod[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationEssence.png[/img] Эссенция вдохновения (Inspiration Essence)
+[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationSingularity.png[/img] Сингулярность вдохновения (Inspiration Singularity)
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] Ядро сингулярности
+[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Губительная плазменная инъекция (Ruinous Plasma Injection)
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]Secrets Of The Shadows[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VioletStar.png[/img] Фиолетовый полумесяц
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/ScarletStar.png[/img] Алый полумесяц
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] Анкх пустоты
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] Сердце души
+[*] [spoiler]А также проводники![/spoiler]
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]Homeward Journey[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Americano.png[/img] Американо
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Cappuccino.png[/img] Капучино
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Latte.png[/img] Латте
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Mocha.png[/img] Мокко
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Eye_of_the_Ocean.png[/img] Глаз океана
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Sun's_Heart.png[/img] Сердце солнца
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Air_Handcannon.png[/img] Воздушная ручная пушка
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Grand_Crystal.png[/img] Великий кристалл
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Hot_Case.png[/img] Горячий корпус
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/The_Switch.png[/img] Переключатель
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Whim_in_a_Bottle.png[/img] Причуда в бутылке
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735]Fargo's Souls Mod[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/MutantsPact.png[/img] Договор Мутанта
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsDiscountCard.png[/img] Скидочная карта Мутанта
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsCreditCard.png[/img] Кредитная карта Мутанта
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/RabiesVaccine.png[/img] Вакцина против бешенства
+[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/DeerSinew.png[/img] Оленьи сухожилия
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653]Mod of Redemption[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Medic_Kit.png[/img] Аптечка
+[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Galaxy_Heart.png[/img] Сердце галактики
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]Quality of Terraria[/url][/b]
+[list]
+[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/WeatherBook.png[/img] Погодная книга
+[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Корабль в мерцающей бутылке
+[/list]
+Обновление 2.1:
+[list]
+[*] Добавлена поддержка проводников из SOTS и русская локализация!
+[/list]
+Приятной игры!
+
+[spoiler]Автор перевода на русский: Kraken[/spoiler]

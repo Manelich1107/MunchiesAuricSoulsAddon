@@ -1,2 +1,2 @@
 Version：{ModVersion}
-Added SotS conduit support & Russian localization (wip)
+bug fixes
