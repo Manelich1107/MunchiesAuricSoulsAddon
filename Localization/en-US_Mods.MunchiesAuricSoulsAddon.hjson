@@ -92,11 +92,22 @@ Acquisition: {
 	GalaxyHeart: Drops from Nebuleus
 	ShellShipInBottle_Shimmered: Shimmer Shell Ship In Bottle
 	WeatherBook: Combine 1 Book, 50 Cloud, 20 Rain Cloud, 3 Fallen Star, 5 Any Shadow Scale at Work Bench
+	ErazorHeart: Obtained by defeating Erazor while having a Glass Soul equipped
+	LunarianHeart: Obtained by defeating The Lost Siblings while having a Glass Soul equipped
+	AraghurHeart: Obtained by defeating Araghur while having a Glass Soul equipped
+	AbaddonHeart: Obtained by defeating Abaddon while having a Glass Soul equipped
+	CorruptedSigil: Spawns when joining the world for the first time
+	GlassSoulChallenge: Obtained by shimmering Unstable Glass Soul
+	ManaFruit: Grows in Snow Biome after beating any mechanical boss
 }
 
 Difficulty: {
 	Fargo: Eternity
 	Calamity: Revengeance
+	SoA: True
 }
 
-Categories.SOTSConduits: Conduits
+Categories: {
+	SOTSConduits: Conduits
+	SoA: Irreversible
+}

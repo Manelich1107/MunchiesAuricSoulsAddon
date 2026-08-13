@@ -92,11 +92,22 @@ Acquisition: {
 	GalaxyHeart: Выпадает с Небулеус
 	ShellShipInBottle_Shimmered: Получается при трансмутации корабля в бутылке с ракушками в мерцании
 	WeatherBook: Создаётся из 1 книги, 50 облаков, 20 дождливых облаков, 3 упавших звёзд и 5 теневых чешуек или образцов ткани на верстаке
+	// ErazorHeart: Obtained by defeating Erazor while having a Glass Soul equipped
+	// LunarianHeart: Obtained by defeating The Lost Siblings while having a Glass Soul equipped
+	// AraghurHeart: Obtained by defeating Araghur while having a Glass Soul equipped
+	// AbaddonHeart: Obtained by defeating Abaddon while having a Glass Soul equipped
+	// CorruptedSigil: Spawns when joining the world for the first time
+	// GlassSoulChallenge: Obtained by shimmering Unstable Glass Soul
+	// ManaFruit: Grows in Snow Biome after beating any mechanical boss
 }
 
 Difficulty: {
 	Fargo: Вечность
 	Calamity: Месть
+	// SoA: True
 }
 
-Categories.SOTSConduits: Проводники
+Categories: {
+	SOTSConduits: Проводники
+	// SoA: Irreversible
+}

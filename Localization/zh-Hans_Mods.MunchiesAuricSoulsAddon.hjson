@@ -92,11 +92,22 @@ Acquisition: {
 	GalaxyHeart: 击败涅布琉斯，星宇天使掉落
 	ShellShipInBottle_Shimmered: 微光嬗变瓶中贝壳船获得
 	WeatherBook: 在工作台处使用书（1）、云（50）、雨云（20）、坠落之星（3）与暗影鳞片/组织样本（5）合成
+	// ErazorHeart: Obtained by defeating Erazor while having a Glass Soul equipped
+	// LunarianHeart: Obtained by defeating The Lost Siblings while having a Glass Soul equipped
+	// AraghurHeart: Obtained by defeating Araghur while having a Glass Soul equipped
+	// AbaddonHeart: Obtained by defeating Abaddon while having a Glass Soul equipped
+	// CorruptedSigil: Spawns when joining the world for the first time
+	// GlassSoulChallenge: Obtained by shimmering Unstable Glass Soul
+	// ManaFruit: Grows in Snow Biome after beating any mechanical boss
 }
 
 Difficulty: {
 	Fargo: 永恒
 	Calamity: 复仇
+	// SoA: True
 }
 
-Categories.SOTSConduits: 导管
+Categories: {
+	SOTSConduits: 导管
+	// SoA: Irreversible
+}

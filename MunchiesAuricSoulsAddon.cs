@@ -1,5 +1,4 @@
 using System;
-using System.Linq;
 using System.Reflection;
 using System.Collections.Generic;
 using Microsoft.Xna.Framework;
@@ -52,6 +51,7 @@ public class MunchiesAuricSoulsAddon : Mod
             AddFargoConsumables(munchiesMod);
             AddRedemptionConsumables(munchiesMod);
             AddQoTConsumables(munchiesMod);
+            AddSoAConsumables(munchiesMod);
         }
         catch (Exception ex)
         {
@@ -94,6 +94,10 @@ public class MunchiesAuricSoulsAddon : Mod
     {
         if (!ModLoader.TryGetMod("CalamityMod", out Mod cal)) return;
         string rev = Language.GetTextValue("Mods.MunchiesAuricSoulsAddon.Difficulty.Calamity");
+
+        bool rageEnabled() => GetModPlayerValue<bool>(cal, Main.LocalPlayer, "CalamityPlayer", "RageEnabled");
+        bool adrenalineEnabled() => GetModPlayerValue<bool>(cal, Main.LocalPlayer, "CalamityPlayer", "AdrenalineEnabled");
+
         // Health
         RegisterConsumable(munchies, cal, "MiracleFruit", "CalamityPlayer", "mFruit");
         RegisterConsumable(munchies, cal, cal.Version < new Version(2, 1) ? "BloodOrange" : "SanguineTangerine", "CalamityPlayer", "sTangerine");
@@ -108,12 +112,12 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumable(munchies, cal, "EtherealCore", "CalamityPlayer", "eCore");
         RegisterConsumable(munchies, cal, "PhantomHeart", "CalamityPlayer", "pHeart");
         // Rage & Adrenaline
-        RegisterConsumable(munchies, cal, "MushroomPlasmaRoot", "CalamityPlayer", "rageBoostOne", Color.Red, rev, "RageEnabled");
-        RegisterConsumable(munchies, cal, "InfernalBlood", "CalamityPlayer", "rageBoostTwo", Color.Red, rev, "RageEnabled");
-        RegisterConsumable(munchies, cal, "RedLightningContainer", "CalamityPlayer", "rageBoostThree", Color.Red, rev, "RageEnabled");
-        RegisterConsumable(munchies, cal, "ElectrolyteGelPack", "CalamityPlayer", "adrenalineBoostOne", Color.Red, rev, "AdrenalineEnabled");
-        RegisterConsumable(munchies, cal, "StarlightFuelCell", "CalamityPlayer", "adrenalineBoostTwo", Color.Red, rev, "AdrenalineEnabled");
-        RegisterConsumable(munchies, cal, "Ectoheart", "CalamityPlayer", "adrenalineBoostThree", Color.Red, rev, "AdrenalineEnabled");
+        RegisterConsumable(munchies, cal, "MushroomPlasmaRoot", "CalamityPlayer", "rageBoostOne", Color.Red, rev, rageEnabled);
+        RegisterConsumable(munchies, cal, "InfernalBlood", "CalamityPlayer", "rageBoostTwo", Color.Red, rev, rageEnabled);
+        RegisterConsumable(munchies, cal, "RedLightningContainer", "CalamityPlayer", "rageBoostThree", Color.Red, rev, rageEnabled);
+        RegisterConsumable(munchies, cal, "ElectrolyteGelPack", "CalamityPlayer", "adrenalineBoostOne", Color.Red, rev, adrenalineEnabled);
+        RegisterConsumable(munchies, cal, "StarlightFuelCell", "CalamityPlayer", "adrenalineBoostTwo", Color.Red, rev, adrenalineEnabled);
+        RegisterConsumable(munchies, cal, "Ectoheart", "CalamityPlayer", "adrenalineBoostThree", Color.Red, rev, adrenalineEnabled);
         // Acc Slot
         if (cal.TryFind("CelestialOnion", out ModItem onion))
         {
@@ -249,8 +253,30 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterWorldConsumable(munchies, qot, "WeatherBook", "WeatherController", "Unlocked");
     }
 
+    private void AddSoAConsumables(Mod munchies)
+    {
+        if (!ModLoader.TryGetMod("SacredTools", out Mod soa)) return;
+        string trueMode = Language.GetTextValue("Mods.MunchiesAuricSoulsAddon.Difficulty.SoA");
+        bool trueModeCheck() => GetModSystemValue(soa, "TrueModeSystem", "TrueMode");
+
+        if (soa.TryFind("ManaFruit", out ModItem manaFruit))
+        {
+            CallMunchiesMulti(munchies, soa, manaFruit,
+                () => GetModPlayerValue<int>(soa, Main.LocalPlayer, "ModdedPlayer", "manaFruits"),
+                () => 20,
+                GetLoc("ManaFruit"));
+        }
+        RegisterConsumable(munchies, soa, "AbaddonHeart", "ModdedPlayer", "abaddonHeart", Color.Purple, category: "Shadows of Abaddon", availability: trueModeCheck, difficulty: trueMode);
+        RegisterConsumable(munchies, soa, "AraghurHeart", "ModdedPlayer", "araghurHeart", Color.Yellow, category: "Shadows of Abaddon", availability: trueModeCheck, difficulty: trueMode);
+        RegisterConsumable(munchies, soa, "LunarianHeart", "ModdedPlayer", "lunarianHeart", Color.Turquoise, category: "Shadows of Abaddon", availability: trueModeCheck, difficulty: trueMode);
+        RegisterConsumable(munchies, soa, "ErazorHeart", "ModdedPlayer", "erazorHeart", Color.Red, category: "Shadows of Abaddon", availability: trueModeCheck, difficulty: trueMode);
+        DrawAPI.RegisterCategory("CorruptedSigil", Language.GetOrRegister("Mods.MunchiesAuricSoulsAddon.Categories.SoA"));
+        RegisterWorldConsumable(munchies, soa, "CorruptedSigil", "TrueModeSystem", "TrueMode", difficulty: trueMode);
+        RegisterConsumable(munchies, soa, "GlassSoulChallenge", "GlassSoulPlayer", "glassSoulChallenge", Color.White, category: "Shadows of Abaddon", availability: trueModeCheck, difficulty: trueMode);
+    }
+
     // Core functions
-    private void RegisterConsumable(Mod munchies, Mod targetMod, string itemName, string className, string fieldName, Color? color = null, string difficulty = "classic", string availabilityField = null, string category = "player", bool isIntCheck = false, Mod displayMod = null)
+    private void RegisterConsumable(Mod munchies, Mod targetMod, string itemName, string className, string fieldName, Color? color = null, string difficulty = "classic", Func<bool> availability = null, string category = "player", bool isIntCheck = false, Mod displayMod = null)
     {
         if (targetMod.TryFind(itemName, out ModItem item))
         {
@@ -258,17 +284,10 @@ public class MunchiesAuricSoulsAddon : Mod
                 ? () => GetModPlayerValue<int>(targetMod, Main.LocalPlayer, className, fieldName) >= 1
                 : () => GetModPlayerValue<bool>(targetMod, Main.LocalPlayer, className, fieldName);
 
-            Func<bool> availabilityCheck = null;
-            if (!string.IsNullOrEmpty(availabilityField))
-            {
-                availabilityCheck = () => GetModPlayerValue<bool>(targetMod, Main.LocalPlayer, className, availabilityField);
-            }
-
             Mod finalTabMod = displayMod ?? targetMod;
-            CallMunchiesSingle(munchies, finalTabMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availabilityCheck, category);
+            CallMunchiesSingle(munchies, finalTabMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availability, category);
         }
     }
-
     private void RegisterConsumableWithImage(Mod munchies, Mod targetMod, string itemName, string className, string fieldName, string imagePath, Color? color = null)
     {
         if (targetMod.TryFind(itemName, out ModItem item))
