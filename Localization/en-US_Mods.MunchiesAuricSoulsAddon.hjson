@@ -99,6 +99,32 @@ Acquisition: {
 	CorruptedSigil: Spawns when joining the world for the first time
 	GlassSoulChallenge: Obtained by shimmering Unstable Glass Soul
 	ManaFruit: Grows in Snow Biome after beating any mechanical boss
+	KiEssence1: Combine 20 Calm Ki Crystal, 30 Stable Ki Crystal, 5 Sunflower at ZTable
+	KiEssence2: Combine 20 Prideful Ki Crystal, 30 Calm Ki Crystal, 1 Bunny at ZTable
+	KiEssence3: Combine 20 Angerful Ki Crystal, 30 Prideful Ki Crystal, 5 Spider Fang at ZTable
+	KiEssence4: Combine 30 Pure Ki Crystal, 20 Angerful Ki Crystal, 1 Lihzahrd Power Cell at Kai Table
+	KiEssence5: Combine 30 Pure Ki Crystal, 30 Angerful Ki Crystal, 30 Prideful Ki Crystal, 30 Calm Ki Crystal, 30 Stable Ki Crystal at Ancient Manipulator
+	KiFragment1: Obtained by defeating Eye of Cthulhu
+	KiFragment2: Obtained by defeating Skeletron
+	KiFragment3: Obtained by defeating Skeletron Prime
+	KiFragment4: Obtained by defeating Plantera
+	KiFragment5: Obtained by defeating Lunatic Cultist
+	KaioFragmentFirst: Obtained by defeating Eye of Cthulhu
+	KaioFragment1: Obtained by defeating Eater of Worlds or Brain of Cthulhu
+	KaioFragment2: Obtained by defeating Queen Bee
+	KaioFragment3: Obtained by defeating SkeletronSkeletron
+	KaioFragment4: Obtained by defeating Wall of Flesh
+	BukuujutsuVol1: Combine 100 Stable Ki Crystal, 3 Mana Crystal, 1 Book at ZTable
+	BukuujutsuVol2: Combine 50 Prideful Ki Crystal, 12 Soul of Flight, 2 Book at ZTable
+	BukuujutsuVol3: Combine 250 Angerful Ki Crystal, 8 Soul of Fright, 8 Soul of Sight, 8 Soul of Might, 3 Book at Kai Table
+	TransmissionVanish: Obtained by defeating Wall of Flesh
+	TransmissionTeleport: Combine 30 Angerful Ki Crystal, 5 Soul of Sight, 1 Rod of Discord, 1 Spell Tome at ZTable
+	TransmissionPura:
+		''' 
+		Combine 20 Pure Ki Crystal, 1 Radiant Fragment, 1 Nebula Fragment,
+		1 Solar Fragment, 1 Stardust Fragment, 1 Vortex Fragment, 4 Luminite,
+		1 Spell Tome at Kai Table
+		'''
 }
 
 Difficulty: {

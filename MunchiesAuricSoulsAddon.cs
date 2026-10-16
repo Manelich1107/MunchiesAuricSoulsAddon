@@ -52,6 +52,7 @@ public class MunchiesAuricSoulsAddon : Mod
             AddRedemptionConsumables(munchiesMod);
             AddQoTConsumables(munchiesMod);
             AddSoAConsumables(munchiesMod);
+            AddDBZConsumables(munchiesMod);
         }
         catch (Exception ex)
         {
@@ -273,6 +274,41 @@ public class MunchiesAuricSoulsAddon : Mod
         DrawAPI.RegisterCategory("CorruptedSigil", Language.GetOrRegister("Mods.MunchiesAuricSoulsAddon.Categories.SoA"));
         RegisterWorldConsumable(munchies, soa, "CorruptedSigil", "TrueModeSystem", "TrueMode", difficulty: trueMode);
         RegisterConsumable(munchies, soa, "GlassSoulChallenge", "GlassSoulPlayer", "glassSoulChallenge", Color.White, category: "Shadows of Abaddon", availability: trueModeCheck, difficulty: trueMode);
+    }
+
+    private void AddDBZConsumables(Mod munchies) 
+    {
+        //dbz
+        if (!ModLoader.TryGetMod("DBZMODPORT", out Mod dbz)) return;
+        //KiEssence
+        RegisterConsumable(munchies, dbz, "KiEssence1", "MyPlayer", "kiEssence1", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiEssence2", "MyPlayer", "kiEssence2", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiEssence3", "MyPlayer", "kiEssence3", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiEssence4", "MyPlayer", "kiEssence4", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiEssence5", "MyPlayer", "kiEssence5", Color.White, category: "Dragon Ball Terraria Legacy");
+        //KiFragment
+        RegisterConsumable(munchies, dbz, "KiFragment1", "MyPlayer", "fragment1", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiFragment2", "MyPlayer", "fragment2", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiFragment3", "MyPlayer", "fragment3", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiFragment4", "MyPlayer", "fragment4", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KiFragment5", "MyPlayer", "fragment5", Color.White, category: "Dragon Ball Terraria Legacy");
+        //Kaio
+        RegisterConsumable(munchies, dbz, "KaioFragmentFirst", "MyPlayer", "kaioAchieved", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KaioFragment1", "MyPlayer", "kaioFragment1", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KaioFragment2", "MyPlayer", "kaioFragment2", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KaioFragment3", "MyPlayer", "kaioFragment3", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "KaioFragment4", "MyPlayer", "kaioFragment4", Color.White, category: "Dragon Ball Terraria Legacy");
+        //Flight
+        RegisterConsumable(munchies, dbz, "BukuujutsuVol1", "MyPlayer", "flightUnlocked", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "BukuujutsuVol2", "MyPlayer", "flightDampeningUnlocked", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "BukuujutsuVol3", "MyPlayer", "flightUpgraded", Color.White, category: "Dragon Ball Terraria Legacy");
+        //Transmission
+        RegisterConsumable(munchies, dbz, "TransmissionVanish", "MyPlayer", "isInstantTransmission1Unlocked", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "TransmissionTeleport", "MyPlayer", "isInstantTransmission2Unlocked", Color.White, category: "Dragon Ball Terraria Legacy");
+        RegisterConsumable(munchies, dbz, "TransmissionPura", "MyPlayer", "isInstantTransmission3Unlocked", Color.White, category: "Dragon Ball Terraria Legacy");
+
+        
+
     }
 
     // Core functions

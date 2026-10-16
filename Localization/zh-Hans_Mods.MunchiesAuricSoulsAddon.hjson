@@ -99,6 +99,27 @@ Acquisition: {
 	// CorruptedSigil: Spawns when joining the world for the first time
 	// GlassSoulChallenge: Obtained by shimmering Unstable Glass Soul
 	// ManaFruit: Grows in Snow Biome after beating any mechanical boss
+	KiEssence1: 在龙珠Z桌处使用平静气水晶（20）、稳定气水晶（30）与向日葵（5）合成
+	KiEssence2: 在龙珠Z桌处使用傲慢气水晶（20）、平静气水晶（30）与兔兔（1）合成
+	KiEssence3: 在龙珠Z桌处使用愤怒气水晶（20）、傲慢气水晶（30）与蜘蛛牙（5）合成
+	KiEssence4: 在龙珠改桌处使用纯粹气水晶（30）、愤怒气水晶（20）与丛林蜥蜴电池（1）合成
+	KiEssence5: 在远古操作仪使用纯粹气水晶、愤怒气水晶、傲慢气水晶、平静气水晶、稳定气水晶（各30个）合成
+	KiFragment1: 击败克苏鲁之眼掉落
+	KiFragment2: 击败骷髅王掉落
+	KiFragment3: 击败机械骷髅王掉落
+	KiFragment4: 击败世纪之花掉落
+	KiFragment5: 击败拜月邪教徒掉落
+	KaioFragmentFirst: 击败克苏鲁之眼掉落
+	KaioFragment1: 击败世界吞噬者或克苏鲁之脑掉落
+	KaioFragment2: 击败蜂王掉落
+	KaioFragment3: 击败骷髅王掉落
+	KaioFragment4: 击败血肉墙掉落
+	BukuujutsuVol1: 在龙珠Z桌处使用稳定气水晶（100）、魔力水晶（3）与书（1）合成
+	BukuujutsuVol2: 在龙珠Z桌处使用傲慢气水晶（50）、飞翔之魂（12）与书（2）合成
+	BukuujutsuVol3: 在龙珠改桌处使用愤怒气水晶（250）、恐惧之魂、视域之魂、力量之魂（各8个）与书（3）合成
+	TransmissionVanish: 击败血肉墙掉落
+	TransmissionTeleport: 在龙珠Z桌处使用愤怒气水晶（30）、视域之魂（5）、混沌传送杖（1）与魔法书（1）合成
+	TransmissionPura: 在龙珠改桌处使用纯粹气水晶（20）、辐辉碎片、星云碎片、日耀碎片、星尘碎片、星旋碎片（各1个）、夜明锭（4）与魔法书（1）合成
 }
 
 Difficulty: {
