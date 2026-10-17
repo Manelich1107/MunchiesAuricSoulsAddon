@@ -84,4 +84,52 @@
 [*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/WeatherBook.png[/img] 天气之书
 [*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] 瓶中微光船
 [/list]
-饮坠！
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828604929]龙珠泰拉[/url][/b]
+[list]
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragmentFirst.png[/img] 界王拳
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment1.png[/img] 3倍界王拳
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment2.png[/img] 4倍界王拳
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment3.png[/img] 10倍界王拳
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment4.png[/img] 20倍界王拳
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence1.png[/img] 新手气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence2.png[/img] 学徒气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence3.png[/img] 熟练气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence4.png[/img] 狂怒气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence5.png[/img] 大师气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment1.png[/img] 新手气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment2.png[/img] 学徒气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment3.png[/img] 熟练气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment4.png[/img] 狂怒气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment5.png[/img] 大师气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol1.png[/img] 舞空术指南卷一
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol2.png[/img] 舞空术指南卷二
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol3.png[/img] 舞空术指南卷三
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionVanish.png[/img] 瞬间移动秘典卷一
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionTeleport.png[/img] 瞬间移动秘典卷二
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionPura.png[/img] 瞬间移动秘典卷三
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3781230133]龙珠灾厄[/url][/b]
+[list]
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiEssence6.png[/img] 神化气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiFragment6.png[/img] 神化气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/LimitBreaker.png[/img] 传说限界突破器
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai5.png[/img] 全开之魂
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai10.png[/img] 严酷全开之魂
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai15.png[/img] 残忍全开之魂
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961904216]龙珠超蓝附属[/url][/b]
+[list]
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiEssenceS.png[/img] 精湛气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiFragmentS.png[/img] 精湛气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/EvilSaiyanItem.png[/img] 力量之果
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3473104066]龙珠更好的视觉效果[/url][/b]
+[list]
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraFruit.png[/img] 究极之果
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIFragment.png[/img] 究极气碎片
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIScroll.png[/img] 究极气卷轴
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/PolterghastSoul.png[/img] 噬魂幽花魂晶
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GodSoul.png[/img] 神之魂晶
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/WitchSoul.png[/img] 至尊女巫魂晶
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GokuSenzuBean.png[/img] 悟空的仙豆
+[/list]

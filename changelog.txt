@@ -1,2 +1,2 @@
 Version：{ModVersion}
-bug fixes
+Dragon Ball Terraria Support
