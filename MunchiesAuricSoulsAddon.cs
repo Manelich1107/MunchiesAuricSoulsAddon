@@ -258,7 +258,7 @@ public class MunchiesAuricSoulsAddon : Mod
     {
         if (!ModLoader.TryGetMod("SacredTools", out Mod soa)) return;
         string trueMode = Language.GetTextValue("Mods.MunchiesAuricSoulsAddon.Difficulty.SoA");
-        bool trueModeCheck() => GetModSystemValue(soa, "TrueModeSystem", "TrueMode");
+        bool trueModeCheck() => GetModSystemValue<bool>(soa, "TrueModeSystem", "TrueMode");
 
         if (soa.TryFind("ManaFruit", out ModItem manaFruit))
         {
@@ -307,8 +307,48 @@ public class MunchiesAuricSoulsAddon : Mod
         RegisterConsumable(munchies, dbz, "TransmissionTeleport", "MyPlayer", "isInstantTransmission2Unlocked", Color.White, category: "Dragon Ball Terraria Legacy");
         RegisterConsumable(munchies, dbz, "TransmissionPura", "MyPlayer", "isInstantTransmission3Unlocked", Color.White, category: "Dragon Ball Terraria Legacy");
 
-        
+        if (ModLoader.TryGetMod("BetterDBT", out Mod dbzbetter)) 
+        {
+            RegisterConsumable(munchies, dbzbetter, "UltraKIScroll", "KISroll", "ScrollUltra", Color.White, category: "Dragon Ball Terraria: Better Projectile Visuals");
+            RegisterConsumable(munchies, dbzbetter, "UltraKIFragment", "KIStuff", "fragmentUltra", Color.White, category: "Dragon Ball Terraria: Better Projectile Visuals");
+            if (dbzbetter.TryFind("UltraFruit", out ModItem fruit))
+            {
+                CallMunchiesSingle(munchies, dbzbetter, fruit,
+                    consumed: () => GetModPlayerValue<int>(dbzbetter, Main.LocalPlayer, "lifebloodbuffeffect", "lifebloodupdate") >= 1,
+                    GetLoc("UltraFruit"));
+            }
+            RegisterWorldConsumable(munchies, dbzbetter, "GodSoul", "GokuProgressionWorld", "YharonBoost");
+            RegisterWorldConsumable(munchies, dbzbetter, "PolterghastSoul", "GokuProgressionWorld", "PolterBoost");
+            RegisterWorldConsumable(munchies, dbzbetter, "WitchSoul", "GokuProgressionWorld", "CalamitasBoost");
+            if (dbzbetter.TryFind("GokuSenzuBean", out ModItem bean)) 
+            {
+                CallMunchiesMulti(munchies, dbzbetter, bean,
+                    current: () => GetModSystemValue<int>(dbzbetter, "GokuProgressionWorld", "GokuSavedHeals"),
+                    total: () => 3,
+                    GetLoc("GokuSenzuBean"),
+                    category: "world");
+            }
+           
+        }
 
+        if (!ModLoader.TryGetMod("DBZGoatLib", out _)) return;
+
+        if (ModLoader.TryGetMod("dbzcalamityUTD", out Mod caldbz)) 
+        {
+            RegisterConsumable(munchies, caldbz, "KiEssence6", "dbzcalamityPlayer", "kiEssence6", Color.White, category: "Dragon Ball Terraria: Calamity Addon reuploaded");
+            RegisterConsumable(munchies, caldbz, "KiFragment6", "dbzcalamityPlayer", "fragment6", Color.White, category: "Dragon Ball Terraria: Calamity Addon reuploaded");
+            RegisterConsumable(munchies, caldbz, "Zenkai5", "dbzcalamityPlayer", "zenkai5", Color.White, category: "Dragon Ball Terraria: Calamity Addon reuploaded");
+            RegisterConsumable(munchies, caldbz, "Zenkai10", "dbzcalamityPlayer", "zenkai10", Color.White, category: "Dragon Ball Terraria: Calamity Addon reuploaded");
+            RegisterConsumable(munchies, caldbz, "Zenkai15", "dbzcalamityPlayer", "zenkai15", Color.White, category: "Dragon Ball Terraria: Calamity Addon reuploaded");
+            RegisterConsumable(munchies, caldbz, "LimitBreaker", "dbzcalamityPlayer", "lssjRevive", Color.White, category: "Dragon Ball Terraria: Calamity Addon reuploaded");
+        }
+
+        if (ModLoader.TryGetMod("SSBETES", out Mod dbzblue)) 
+        {
+            RegisterConsumable(munchies, dbzblue, "KiEssenceS", "BUPPlayer", "SuperScroll", Color.White, category: "Dragon Ball Terraria: Blue Evolution Addon");
+            RegisterConsumable(munchies, dbzblue, "KiFragmentS", "BUPPlayer", "SuperFragment", Color.White, difficulty: "expert" ,category: "Dragon Ball Terraria: Blue Evolution Addon");
+            RegisterConsumable(munchies, dbzblue, "EvilSaiyanItem", "BUPPlayer", "EvilSaiyanAchieved", Color.White, category: "Dragon Ball Terraria: Blue Evolution Addon");
+        }
     }
 
     // Core functions
@@ -335,36 +375,48 @@ public class MunchiesAuricSoulsAddon : Mod
         }
     }
 
-    private void RegisterWorldConsumable(Mod munchies, Mod targetMod, string itemName, string systemName, string fieldName, Color? color = null, string difficulty = "classic", string availabilityField = null)
+    private void RegisterWorldConsumable(Mod munchies, Mod targetMod, string itemName, string systemName, string memberName, Color? color = null, string difficulty = "classic", string availabilityField = null)
     {
         if (targetMod.TryFind(itemName, out ModItem item))
         {
-            Func<bool> consumedCheck = () => GetModSystemValue(targetMod, systemName, fieldName);
+            Func<bool> consumedCheck = () => GetModSystemValue<bool>(targetMod, systemName, memberName);
             Func<bool> availabilityCheck = null;
             if (!string.IsNullOrEmpty(availabilityField))
             {
-                availabilityCheck = () => GetModSystemValue(targetMod, systemName, availabilityField);
+                availabilityCheck = () => GetModSystemValue<bool>(targetMod, systemName, availabilityField);
             }
             CallMunchiesSingle(munchies, targetMod, item, consumedCheck, GetLoc(itemName), color, difficulty, availabilityCheck, "world");
         }
     }
 
-    private bool GetModSystemValue(Mod mod, string systemName, string fieldName)
+    private T GetModSystemValue<T>(Mod mod, string systemName, string memberName)
     {
+        string classKey = $"{mod.Name}.{systemName}";
+        string memberKey = $"{classKey}.{memberName}";
         try
         {
             if (mod.TryFind(systemName, out ModSystem system))
             {
-                Type type = system.GetType();
-                FieldInfo field = type.GetField(fieldName, BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
-                if (field != null) return (bool)field.GetValue(null);
+                if (!_reflectionCache.TryGetValue(memberKey, out MemberInfo member))
+                {
+                    Type type = system.GetType();
+                    member = (MemberInfo)type.GetField(memberName, BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic)
+                             ?? type.GetProperty(memberName, BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
 
-                PropertyInfo prop = type.GetProperty(fieldName, BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
-                if (prop != null) return (bool)prop.GetValue(null);
+                    if (member != null) _reflectionCache[memberKey] = member;
+                    else return default;
+                }
+
+                return member switch
+                {
+                    FieldInfo f => (T)f.GetValue(system),
+                    PropertyInfo p => (T)p.GetValue(system),
+                    _ => default
+                };
             }
         }
-        catch { }
-        return false;
+        catch {  };
+        return default;
     }
 
     private T GetModPlayerValue<T>(Mod mod, Player player, string className, string memberName)
