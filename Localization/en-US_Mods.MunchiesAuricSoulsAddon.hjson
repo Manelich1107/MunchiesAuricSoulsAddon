@@ -120,11 +120,35 @@ Acquisition: {
 	TransmissionVanish: Obtained by defeating Wall of Flesh
 	TransmissionTeleport: Combine 30 Angerful Ki Crystal, 5 Soul of Sight, 1 Rod of Discord, 1 Spell Tome at ZTable
 	TransmissionPura:
-		''' 
+		'''
 		Combine 20 Pure Ki Crystal, 1 Radiant Fragment, 1 Nebula Fragment,
 		1 Solar Fragment, 1 Stardust Fragment, 1 Vortex Fragment, 4 Luminite,
 		1 Spell Tome at Kai Table
 		'''
+	UltraKIScroll: Combine 5 Ultra Ki Crystal at Ancient Manipulator
+	UltraKIFragment: Combine 5 Ultra Ki Crystal at Ancient Manipulator
+	UltraFruit: Combine 10 Ultra Ki Crystal, 5 Luminite Bar at Ancient Manipulator
+	GodSoul: Combine 10 Cosmilite Bar, 35 Godly Ki Crystal at Kai Table
+	PolterghastSoul: Combine 10 Ruinous Soul, 35 Warm Ki Crystal at Kai Table
+	WitchSoul: Combine 10 Ashes of Annihilation, 35 Unlimited Ki Crystal at Kai Table
+	GokuSenzuBean: Obtained by defeating Providence, the Profaned Goddess, The Old Duke, and Yharon; one from each, and only once per world
+	KiEssence6:
+		'''
+		Combine 50 Warm Ki Crystal, 15 Solar Fragment, 15 Vortex Fragment, 
+		15 Nebula Fragment, 15 Stardust Fragment, 3 Effulgent Feather at Kai Table
+		'''
+	KiFragment6: Obtained by defeating Polterghast
+	Zenkai5: Combine 15 Stable Ki Crystal, 5 Deathweed, 15 Crimtane Bar/Demonite Bar at ZTable
+	Zenkai10: Combine 25 Angerful Ki Crystal, 1 Light Shard, 1 Dark Shard, 15 Hallowed Bar at ZTable
+	Zenkai15:
+		'''
+		Combine 30 Shining Ki Crystal, 20 Solar Fragment, 20 Vortex Fragment,
+		20 Nebula Fragment, 20 Stardust Fragment, 15 Luminite Bar at Kai Table
+		'''
+	LimitBreaker: Combine 20 Solar Fragment, 20 Vortex Fragment, 20 Nebula Fragment, 20 Stardust Fragment, 35 Radiant Fragment at Kai Table
+	KiEssenceS: Combine 30 Angerful Ki Crystal, 10 Soul of Sight, 3 Antlion Mandible
+	KiFragmentS: Obtained by defeating Golem in Expert Mode or higher
+	EvilSaiyanItem: Obtained by defeating Eye of Cthulhu
 }
 
 Difficulty: {
