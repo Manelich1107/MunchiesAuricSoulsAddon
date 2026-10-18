@@ -84,7 +84,7 @@ This mod works as a permanent power-ups tracker for multiple mods. Right now, th
 [*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/WeatherBook.png[/img] Weather Book
 [*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Shimmered Ship In Bottle
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828604929]Dragon Ball Terraria Legacy [/url][/b]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828604929]Dragon Ball Terraria Legacy[/url][/b]
 [list]
 [*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragmentFirst.png[/img] Kaioken
 [*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment1.png[/img] Kaioken 3x
