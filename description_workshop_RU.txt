@@ -42,14 +42,14 @@
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] Ядро сингулярности
-[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Губительная плазменная инъекция (Ruinous Plasma Injection)
+[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Губительная плазменная инъекция
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]Secrets Of The Shadows[/url][/b]
 [list]
 [*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VioletStar.png[/img] Фиолетовый полумесяц
 [*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/ScarletStar.png[/img] Алый полумесяц
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] Анкх пустоты
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] Сердце души
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] Пустотный анх
+[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] Сердечная эссенция
 [*] [spoiler]А также проводники![/spoiler]
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]Homeward Journey[/url][/b]
@@ -84,10 +84,54 @@
 [*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/WeatherBook.png[/img] Погодная книга
 [*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Корабль в мерцающей бутылке
 [/list]
-Обновление 2.1:
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828604929]Dragon Ball Terraria Legacy [/url][/b]
 [list]
-[*] Добавлена поддержка проводников из SOTS и русская локализация!
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragmentFirst.png[/img] Kaioken
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment1.png[/img] Kaioken 3x
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment2.png[/img] Kaioken 4x
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment3.png[/img] Kaioken 10x
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment4.png[/img] Kaioken 20x
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence1.png[/img] Novice Ki Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence2.png[/img] Student Ki Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence3.png[/img] Adept Ki Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence4.png[/img] Enraged Ki Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence5.png[/img] Master Ki Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment1.png[/img] Novice Ki Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment2.png[/img] Student Ki Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment3.png[/img] Adept Ki Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment4.png[/img] Enraged Ki Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment5.png[/img] Master Ki Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol1.png[/img] Bukuujutsu Guide Vol 1 
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol2.png[/img] Bukuujutsu Guide Vol 2
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol3.png[/img] Bukuujutsu Guide Vol 3
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionVanish.png[/img] I.T. Tome Vol 1
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionTeleport.png[/img] I.T. Tome Vol 2
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionPura.png[/img] I.T. Tome Vol 3
 [/list]
-Приятной игры!
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3781230133]Dragon Ball Terraria: Calamity Addon reuploaded [/url][/b]
+[list]
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiEssence6.png[/img] God Ki Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiFragment6.png[/img] God Ki Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/LimitBreaker.png[/img] Legendary Limit Breaker
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai5.png[/img] Zenkai Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai10.png[/img] Harsh Zenkai Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai15.png[/img] Brutal Zenkai Soul
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961904216]Dragon Ball Terraria: Blue Evolution Addon [/url][/b]
+[list]
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiEssenceS.png[/img] Skilled Ki Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiFragmentS.png[/img] Skilled Ki Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/EvilSaiyanItem.png[/img] Fruit of Might
+[/list]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3473104066]Dragon Ball Terraria: Better Projectile Visuals[/url][/b]
+[list]
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraFruit.png[/img] Ultra Fruit
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIFragment.png[/img] Ultra KI Fragment
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIScroll.png[/img] Ultra KI Scroll
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/PolterghastSoul.png[/img] Polterghast Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GodSoul.png[/img] God Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/WitchSoul.png[/img] Witch Soul
+[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GokuSenzuBean.png[/img] Goku's Senzu Bean
+[/list]
 
 [spoiler]Автор перевода на русский: Kraken[/spoiler]
