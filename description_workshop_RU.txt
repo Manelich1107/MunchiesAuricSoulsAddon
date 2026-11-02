@@ -1,137 +1,137 @@
 [h1]Munchies Crossmod Addon[/h1]
-Для работы мода требуется [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]Munchies[/url].
+Для работы мода требуется [url=https://is.gd/mL001]Munchies[/url].
 Этот мод добавляет постоянные улучшения из разных модов в журнал Munchies. С полным списком совместимых модов и добавленных из них расходников можно ознакомиться ниже.
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url][/b]
+[b][url=https://is.gd/mL002]Calamity Mod[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] Неземная луковица
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/CometShard.png[/img] Осколок кометы
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] Эктосердце
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] Пакет с гелевым электролитом
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] Эфирное ядро
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] Инфернальная кровь
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] Чудо-фрукт
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] Грибной плазменный корень
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] Фантомное сердце
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] Контейнер с красной молнией
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] Священная клубника
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] Кровавый мандарин
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] Топливная ячейка звёздного света
-[*] [img]https://raw.githubusercontent.com/CalamityTeam/CalamityModPublic/1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] Осквернённая морошка
+[*][img]https://i0.wp.com/is.gd/mR001[/img] Неземная луковица
+[*][img]https://i0.wp.com/is.gd/mR002[/img] Осколок кометы
+[*][img]https://i0.wp.com/is.gd/mR003[/img] Эктосердце
+[*][img]https://i0.wp.com/is.gd/mR004[/img] Пакет с гелевым электролитом
+[*][img]https://i0.wp.com/is.gd/mR005[/img] Эфирное ядро
+[*][img]https://i0.wp.com/is.gd/mR006[/img] Инфернальная кровь
+[*][img]https://i0.wp.com/is.gd/mR007[/img] Чудо-фрукт
+[*][img]https://i0.wp.com/is.gd/mR008[/img] Грибной плазменный корень
+[*][img]https://i0.wp.com/is.gd/mR009[/img] Фантомное сердце
+[*][img]https://i0.wp.com/is.gd/mR010[/img] Контейнер с красной молнией
+[*][img]https://i0.wp.com/is.gd/mR011[/img] Священная клубника
+[*][img]https://i0.wp.com/is.gd/mR012[/img] Кровавый мандарин
+[*][img]https://i0.wp.com/is.gd/mR013[/img] Топливная ячейка звёздного света
+[*][img]https://i0.wp.com/is.gd/mR014[/img] Осквернённая морошка
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]Calamity: Hunt of the Old God[/url][/b]
+[b][url=https://is.gd/mL003]Calamity: Hunt of the Old God[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/YharonSoul.png[/img] Возрождённая ауритовая душа
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/GoozmaSoul.png[/img] Хроматическая ауритовая душа
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/RottenSoul.png[/img] Сгнившая ауритовая душа
+[*][img]https://i0.wp.com/is.gd/mR015[/img] Возрождённая ауритовая душа
+[*][img]https://i0.wp.com/is.gd/mR016[/img] Хроматическая ауритовая душа
+[*][img]https://i0.wp.com/is.gd/mR017[/img] Сгнившая ауритовая душа
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956324268]Calamity: Community Remix[/url][/b]
+[b][url=https://is.gd/mL004]Calamity: Community Remix[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AshenSoul.png[/img] Пепельная ауритовая душа (Ashen Auric Soul)
+[*][img]https://i0.wp.com/is.gd/mR018[/img] Пепельная ауритовая душа (Ashen Auric Soul)
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]Calamity: Wrath of the Gods[/url][/b]
+[b][url=https://is.gd/mL005]Calamity: Wrath of the Gods[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/AvatarAuricSoul.png[/img] Гротескная ауритовая душа
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/NamelessAuricSoul.png[/img] Высшая ауритовая душа
-[*] [img]https://raw.githubusercontent.com/TheFifthCircle/WrathOfTheGodsPublic/main/icon_small.png[/img] Хорошее яблоко
+[*][img]https://i0.wp.com/is.gd/mR019[/img] Гротескная ауритовая душа
+[*][img]https://i0.wp.com/is.gd/mR020[/img] Высшая ауритовая душа
+[*][img]https://i0.wp.com/is.gd/mR021[/img] Хорошее яблоко
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok Mod[/url][/b]
+[b][url=https://is.gd/mL006]Ragnarok Mod[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationEssence.png[/img] Эссенция вдохновения (Inspiration Essence)
-[*] [img]https://raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationSingularity.png[/img] Сингулярность вдохновения (Inspiration Singularity)
+[*][img]https://i0.wp.com/is.gd/mR022[/img] Эссенция вдохновения (Inspiration Essence)
+[*][img]https://i0.wp.com/is.gd/mR023[/img] Сингулярность вдохновения (Inspiration Singularity)
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/b]
+[b][url=https://is.gd/mL007]Infernal Eclipse of Ragnarok[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/SingularityCore.png[/img] Ядро сингулярности
-[*] [img]https://raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Губительная плазменная инъекция
+[*][img]https://i0.wp.com/is.gd/mR024[/img] Ядро сингулярности
+[*][img]https://i0.wp.com/is.gd/mR025[/img] Губительная плазменная инъекция
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]Secrets Of The Shadows[/url][/b]
+[b][url=https://is.gd/mL008]Secrets Of The Shadows[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VioletStar.png[/img] Фиолетовый полумесяц
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/ScarletStar.png[/img] Алый полумесяц
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/VoidenAnkh.png[/img] Пустотный анх
-[*] [img]https://raw.githubusercontent.com/VortexOfRainbows/SOTS/1.4.4/Items/Void/SoulHeart.png[/img] Сердечная эссенция
+[*][img]https://i0.wp.com/is.gd/mR026[/img] Фиолетовый полумесяц
+[*][img]https://i0.wp.com/is.gd/mR027[/img] Алый полумесяц
+[*][img]https://i0.wp.com/is.gd/mR028[/img] Пустотный анх
+[*][img]https://i0.wp.com/is.gd/mR029[/img] Сердечная эссенция
 [*] [spoiler]А также проводники![/spoiler]
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]Homeward Journey[/url][/b]
+[b][url=https://is.gd/mL009]Homeward Journey[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Americano.png[/img] Американо
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Cappuccino.png[/img] Капучино
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Latte.png[/img] Латте
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Mocha.png[/img] Мокко
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Eye_of_the_Ocean.png[/img] Глаз океана
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Sun's_Heart.png[/img] Сердце солнца
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Air_Handcannon.png[/img] Воздушная ручная пушка
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Grand_Crystal.png[/img] Великий кристалл
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Hot_Case.png[/img] Горячий корпус
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/The_Switch.png[/img] Переключатель
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Whim_in_a_Bottle.png[/img] Причуда в бутылке
+[*][img]https://i0.wp.com/is.gd/mR030[/img] Американо
+[*][img]https://i0.wp.com/is.gd/mR031[/img] Капучино
+[*][img]https://i0.wp.com/is.gd/mR032[/img] Латте
+[*][img]https://i0.wp.com/is.gd/mR033[/img] Мокко
+[*][img]https://i0.wp.com/is.gd/mR034[/img] Глаз океана
+[*][img]https://i0.wp.com/is.gd/mR035[/img] Сердце солнца
+[*][img]https://i0.wp.com/is.gd/mR036[/img] Воздушная ручная пушка
+[*][img]https://i0.wp.com/is.gd/mR037[/img] Великий кристалл
+[*][img]https://i0.wp.com/is.gd/mR038[/img] Горячий корпус
+[*][img]https://i0.wp.com/is.gd/mR039[/img] Переключатель
+[*][img]https://i0.wp.com/is.gd/mR040[/img] Причуда в бутылке
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735]Fargo's Souls Mod[/url][/b]
+[b][url=https://is.gd/mL010]Fargo's Souls Mod[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/MutantsPact.png[/img] Договор Мутанта
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsDiscountCard.png[/img] Скидочная карта Мутанта
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/MutantsCreditCard.png[/img] Кредитная карта Мутанта
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/RabiesVaccine.png[/img] Вакцина против бешенства
-[*] [img]https://raw.githubusercontent.com/Fargo-Team/FargosSoulsMod/master/Content/Items/Consumables/DeerSinew.png[/img] Оленьи сухожилия
+[*][img]https://i0.wp.com/is.gd/mR041[/img] Договор Мутанта
+[*][img]https://i0.wp.com/is.gd/mR042[/img] Скидочная карта Мутанта
+[*][img]https://i0.wp.com/is.gd/mR043[/img] Кредитная карта Мутанта
+[*][img]https://i0.wp.com/is.gd/mR044[/img] Вакцина против бешенства
+[*][img]https://i0.wp.com/is.gd/mR045[/img] Оленьи сухожилия
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653]Mod of Redemption[/url][/b]
+[b][url=https://is.gd/mL011]Mod of Redemption[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Medic_Kit.png[/img] Аптечка
-[*] [img]https://raw.githubusercontent.com/moonditch/photo-icon/main/Galaxy_Heart.png[/img] Сердце галактики
+[*][img]https://i0.wp.com/is.gd/mR046[/img] Аптечка
+[*][img]https://i0.wp.com/is.gd/mR047[/img] Сердце галактики
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]Quality of Terraria[/url][/b]
+[b][url=https://is.gd/mL012]Quality of Terraria[/url][/b]
 [list]
-[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/WeatherBook.png[/img] Погодная книга
-[*] [img]https://raw.githubusercontent.com/487666123/ImproveGame/1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Корабль в мерцающей бутылке
+[*][img]https://i0.wp.com/is.gd/mR048[/img] Погодная книга
+[*][img]https://i0.wp.com/is.gd/mR049[/img] Корабль в мерцающей бутылке
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828604929]Dragon Ball Terraria Legacy [/url][/b]
+[b][url=https://is.gd/mL013]Dragon Ball Terraria Legacy [/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragmentFirst.png[/img] Kaioken
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment1.png[/img] Kaioken 3x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment2.png[/img] Kaioken 4x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment3.png[/img] Kaioken 10x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment4.png[/img] Kaioken 20x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence1.png[/img] Novice Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence2.png[/img] Student Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence3.png[/img] Adept Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence4.png[/img] Enraged Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence5.png[/img] Master Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment1.png[/img] Novice Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment2.png[/img] Student Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment3.png[/img] Adept Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment4.png[/img] Enraged Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment5.png[/img] Master Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol1.png[/img] Bukuujutsu Guide Vol 1 
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol2.png[/img] Bukuujutsu Guide Vol 2
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol3.png[/img] Bukuujutsu Guide Vol 3
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionVanish.png[/img] I.T. Tome Vol 1
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionTeleport.png[/img] I.T. Tome Vol 2
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionPura.png[/img] I.T. Tome Vol 3
+[*][img]https://i0.wp.com/is.gd/mR050[/img] Kaioken
+[*][img]https://i0.wp.com/is.gd/mR051[/img] Kaioken 3x
+[*][img]https://i0.wp.com/is.gd/mR052[/img] Kaioken 4x
+[*][img]https://i0.wp.com/is.gd/mR053[/img] Kaioken 10x
+[*][img]https://i0.wp.com/is.gd/mR054[/img] Kaioken 20x
+[*][img]https://i0.wp.com/is.gd/mR055[/img] Novice Ki Scroll
+[*][img]https://i0.wp.com/is.gd/mR056[/img] Student Ki Scroll
+[*][img]https://i0.wp.com/is.gd/mR057[/img] Adept Ki Scroll
+[*][img]https://i0.wp.com/is.gd/mR058[/img] Enraged Ki Scroll
+[*][img]https://i0.wp.com/is.gd/mR059[/img] Master Ki Scroll
+[*][img]https://i0.wp.com/is.gd/mR060[/img] Novice Ki Fragment
+[*][img]https://i0.wp.com/is.gd/mR061[/img] Student Ki Fragment
+[*][img]https://i0.wp.com/is.gd/mR062[/img] Adept Ki Fragment
+[*][img]https://i0.wp.com/is.gd/mR063[/img] Enraged Ki Fragment
+[*][img]https://i0.wp.com/is.gd/mR064[/img] Master Ki Fragment
+[*][img]https://i0.wp.com/is.gd/mR065[/img] Bukuujutsu Guide Vol 1
+[*][img]https://i0.wp.com/is.gd/mR066[/img] Bukuujutsu Guide Vol 2
+[*][img]https://i0.wp.com/is.gd/mR067[/img] Bukuujutsu Guide Vol 3
+[*][img]https://i0.wp.com/is.gd/mR068[/img] I.T. Tome Vol 1
+[*][img]https://i0.wp.com/is.gd/mR069[/img] I.T. Tome Vol 2
+[*][img]https://i0.wp.com/is.gd/mR070[/img] I.T. Tome Vol 3
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3781230133]Dragon Ball Terraria: Calamity Addon reuploaded [/url][/b]
+[b][url=https://is.gd/mL014]Dragon Ball Terraria: Calamity Addon reuploaded [/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiEssence6.png[/img] God Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiFragment6.png[/img] God Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/LimitBreaker.png[/img] Legendary Limit Breaker
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai5.png[/img] Zenkai Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai10.png[/img] Harsh Zenkai Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai15.png[/img] Brutal Zenkai Soul
+[*][img]https://i0.wp.com/is.gd/mR071[/img] God Ki Scroll
+[*][img]https://i0.wp.com/is.gd/mR072[/img] God Ki Fragment
+[*][img]https://i0.wp.com/is.gd/mR073[/img] Legendary Limit Breaker
+[*][img]https://i0.wp.com/is.gd/mR074[/img] Zenkai Soul
+[*][img]https://i0.wp.com/is.gd/mR075[/img] Harsh Zenkai Soul
+[*][img]https://i0.wp.com/is.gd/mR076[/img] Brutal Zenkai Soul
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961904216]Dragon Ball Terraria: Blue Evolution Addon [/url][/b]
+[b][url=https://is.gd/mL015]Dragon Ball Terraria: Blue Evolution Addon [/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiEssenceS.png[/img] Skilled Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiFragmentS.png[/img] Skilled Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/EvilSaiyanItem.png[/img] Fruit of Might
+[*][img]https://i0.wp.com/is.gd/mR077[/img] Skilled Ki Scroll
+[*][img]https://i0.wp.com/is.gd/mR078[/img] Skilled Ki Fragment
+[*][img]https://i0.wp.com/is.gd/mR079[/img] Fruit of Might
 [/list]
-[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3473104066]Dragon Ball Terraria: Better Projectile Visuals[/url][/b]
+[b][url=https://is.gd/mL016]Dragon Ball Terraria: Better Projectile Visuals[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraFruit.png[/img] Ultra Fruit
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIFragment.png[/img] Ultra KI Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIScroll.png[/img] Ultra KI Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/PolterghastSoul.png[/img] Polterghast Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GodSoul.png[/img] God Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/WitchSoul.png[/img] Witch Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GokuSenzuBean.png[/img] Goku's Senzu Bean
+[*][img]https://i0.wp.com/is.gd/mR080[/img] Ultra Fruit
+[*][img]https://i0.wp.com/is.gd/mR081[/img] Ultra KI Fragment
+[*][img]https://i0.wp.com/is.gd/mR082[/img] Ultra KI Scroll
+[*][img]https://i0.wp.com/is.gd/mR083[/img] Polterghast Soul
+[*][img]https://i0.wp.com/is.gd/mR084[/img] God Soul
+[*][img]https://i0.wp.com/is.gd/mR085[/img] Witch Soul
+[*][img]https://i0.wp.com/is.gd/mR086[/img] Goku's Senzu Bean
 [/list]
 
 [spoiler]Автор перевода на русский: Kraken[/spoiler]

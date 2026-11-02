@@ -3,133 +3,133 @@ You need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3310041861]
 This mod works as a permanent power-ups tracker for multiple mods. Right now, the mods can track the following consumables.
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/CelestialOnion.png[/img] Celestial Onion
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/CometShard.png[/img] Comet Shard
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/Ectoheart.png[/img] Ectoheart
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/ElectrolyteGelPack.png[/img] Electrolyte Gel Pack
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/EtherealCore.png[/img] Ethereal Core
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/InfernalBlood.png[/img] Infernal Blood
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/MiracleFruit.png[/img] Miracle Fruit
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/MushroomPlasmaRoot.png[/img] Mushroom Plasma Root
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/PhantomHeart.png[/img] Phantom Heart
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/RedLightningContainer.png[/img] Red Lightning Container
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/SacredStrawberry.png[/img] Sacred Strawberry
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/SanguineTangerine.png[/img] Sanguine Tangerine
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/StarlightFuelCell.png[/img] Starlight Fuel Cell
-[*][img]https://cdn.jsdelivr.net/gh/CalamityTeam/CalamityModPublic@1.4.4/Items/PermanentBoosters/TaintedCloudberry.png[/img] Tainted Cloudberry
+[*][img]https://i0.wp.com/is.gd/3ADB8g[/img] Celestial Onion
+[*][img]https://i0.wp.com/is.gd/2q5efW[/img] Comet Shard
+[*][img]https://i0.wp.com/is.gd/pBsb6P[/img] Ectoheart
+[*][img]https://i0.wp.com/is.gd/y7KCAR[/img] Electrolyte Gel Pack
+[*][img]https://i0.wp.com/is.gd/HvLova[/img] Ethereal Core
+[*][img]https://i0.wp.com/is.gd/KBa1Dd[/img] Infernal Blood
+[*][img]https://i0.wp.com/is.gd/nD2VfR[/img] Miracle Fruit
+[*][img]https://i0.wp.com/is.gd/5YU5NB[/img] Mushroom Plasma Root
+[*][img]https://i0.wp.com/is.gd/KPHN4p[/img] Phantom Heart
+[*][img]https://i0.wp.com/is.gd/5XlfNk[/img] Red Lightning Container
+[*][img]https://i0.wp.com/is.gd/WtIgLT[/img] Sacred Strawberry
+[*][img]https://i0.wp.com/is.gd/48I478[/img] Sanguine Tangerine
+[*][img]https://i0.wp.com/is.gd/qnHtp0[/img] Starlight Fuel Cell
+[*][img]https://i0.wp.com/is.gd/Fnrt0M[/img] Tainted Cloudberry
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3241967932]Calamity: Hunt of the Old God[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/YharonSoul.png[/img] Rebirth Auric Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/GoozmaSoul.png[/img] Chromatic Auric Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/RottenSoul.png[/img] Rotten Auric Soul
+[*][img]https://i0.wp.com/is.gd/xvPdq9[/img] Rebirth Auric Soul
+[*][img]https://i0.wp.com/is.gd/uthawe[/img] Chromatic Auric Soul
+[*][img]https://i0.wp.com/is.gd/emJ75m[/img] Rotten Auric Soul
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956324268]Calamity: Community Remix[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/AshenSoul.png[/img] Ashen Auric Soul
+[*][img]https://i0.wp.com/is.gd/jFXifz[/img] Ashen Auric Soul
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995193002]Calamity: Wrath of the Gods[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/AvatarAuricSoul.png[/img] Grotesque Auric Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/NamelessAuricSoul.png[/img] Supreme Auric Soul
-[*][img]https://cdn.jsdelivr.net/gh/TheFifthCircle/WrathOfTheGodsPublic/icon_small.png[/img] Good Apple
+[*][img]https://i0.wp.com/is.gd/Cp53RU[/img] Grotesque Auric Soul
+[*][img]https://i0.wp.com/is.gd/Whit8q[/img] Supreme Auric Soul
+[*][img]https://i0.wp.com/is.gd/DttEit[/img] Good Apple
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok Mod[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/CrafterDaemon/RagnarokMod/Items/BardItems/Consumable/InspirationEssence.png[/img] Inspiration Essence
-[*][img]https://cdn.jsdelivr.net/gh/CrafterDaemon/RagnarokMod/Items/BardItems/Consumable/InspirationSingularity.png[/img] Inspiration Singularity
+[*][img]https://i0.wp.com/is.gd/FqOVjo[/img] Inspiration Essence
+[*][img]https://i0.wp.com/raw.githubusercontent.com/CrafterDaemon/RagnarokMod/main/Items/BardItems/Consumable/InspirationSingularity.png[/img] Inspiration Singularity
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/darianhughes/InfernalEclipseAPI/Content/Items/PermanentBoosters/SingularityCore.png[/img] Singularity Core
-[*][img]https://cdn.jsdelivr.net/gh/darianhughes/InfernalEclipseAPI/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Ruinous Plasma Injection
+[*][img]https://i0.wp.com/is.gd/I9lPYs[/img] Singularity Core
+[*][img]https://i0.wp.com/raw.githubusercontent.com/darianhughes/InfernalEclipseAPI/master/Content/Items/PermanentBoosters/RuinousPlasmaInjection.png[/img] Ruinous Plasma Injection
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2844842520]Secrets Of The Shadows[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/VioletStar.png[/img] Violet Crescent
-[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/ScarletStar.png[/img] Scarlet Crescent
-[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/VoidenAnkh.png[/img] Voiden Ankh
-[*][img]https://cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/SoulHeart.png[/img] Soul Heart
+[*][img]https://i0.wp.com/cdn.jsdelivr.net/gh/VortexOfRainbows/SOTS@1.4.4/Items/Void/VioletStar.png[/img] Violet Crescent
+[*][img]https://i0.wp.com/is.gd/uAklHV[/img] Scarlet Crescent
+[*][img]https://i0.wp.com/is.gd/TMGqqJ[/img] Voiden Ankh
+[*][img]https://i0.wp.com/is.gd/Yom2su[/img] Soul Heart
 [*][spoiler]Conduits are also supported now![/spoiler]
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197]Homeward Journey[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Americano.png[/img] Americano
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Cappuccino.png[/img] Cappuccino
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Latte.png[/img] Latte
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Mocha.png[/img] Mocha
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Eye_of_the_Ocean.png[/img] Eye of the Ocean
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Sun's_Heart.png[/img] Sun's Heart
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Air_Handcannon.png[/img] Air Handcanon
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Grand_Crystal.png[/img] Grand Crystal
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Hot_Case.png[/img] Hot Case
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/The_Switch.png[/img] The Switch
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Whim_in_a_Bottle.png[/img] Whim in a Bottle
+[*][img]https://i0.wp.com/is.gd/7UPkay[/img] Americano
+[*][img]https://i0.wp.com/is.gd/s84u7k[/img] Cappuccino
+[*][img]https://i0.wp.com/is.gd/vWwtcA[/img] Latte
+[*][img]https://i0.wp.com/is.gd/BHgRvE[/img] Mocha
+[*][img]https://i0.wp.com/is.gd/olfDnV[/img] Eye of the Ocean
+[*][img]https://i0.wp.com/is.gd/ZigyHb[/img] Sun's Heart
+[*][img]https://i0.wp.com/is.gd/Rpm3FM[/img] Air Handcanon
+[*][img]https://i0.wp.com/is.gd/9tBWcf[/img] Grand Crystal
+[*][img]https://i0.wp.com/is.gd/PPMJPI[/img] Hot Case
+[*][img]https://i0.wp.com/is.gd/Cdupn9[/img] The Switch
+[*][img]https://i0.wp.com/is.gd/hfGZOE[/img] Whim in a Bottle
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735]Fargo's Souls Mod[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/MutantsPact.png[/img] Mutants Pact
-[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/MutantsDiscountCard.png[/img] Mutants Discount Card
-[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/MutantsCreditCard.png[/img] Mutant Credit Card
-[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/RabiesVaccine.png[/img] Rabies Vaccine
-[*][img]https://cdn.jsdelivr.net/gh/Fargo-Team/FargosSoulsMod@master/Content/Items/Consumables/DeerSinew.png[/img] Deer Sinew
+[*][img]https://i0.wp.com/is.gd/TSlSye[/img] Mutants Pact
+[*][img]https://i0.wp.com/is.gd/dz8zYQ[/img] Mutants Discount Card
+[*][img]https://i0.wp.com/is.gd/XlQGQO[/img] Mutant Credit Card
+[*][img]https://i0.wp.com/is.gd/IZmIkW[/img] Rabies Vaccine
+[*][img]https://i0.wp.com/is.gd/RZ1rvK[/img] Deer Sinew
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653]Mod of Redemption[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Medic_Kit.png[/img] Medic Kit
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/Galaxy_Heart.png[/img] Galaxy Heart
+[*][img]https://i0.wp.com/is.gd/tswMDK[/img] Medic Kit
+[*][img]https://i0.wp.com/is.gd/wUixoE[/img] Galaxy Heart
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634]Quality of Terraria[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/WeatherBook.png[/img] Weather Book
-[*][img]https://cdn.jsdelivr.net/gh/487666123/ImproveGame@1.4.4/Content/Items/ShellShipInBottle_Shimmered.png[/img] Shimmered Ship In Bottle
+[*][img]https://i0.wp.com/is.gd/2kGiA0[/img] Weather Book
+[*][img]https://i0.wp.com/is.gd/HhZZxO[/img] Shimmered Ship In Bottle
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828604929]Dragon Ball Terraria Legacy[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragmentFirst.png[/img] Kaioken
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment1.png[/img] Kaioken 3x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment2.png[/img] Kaioken 4x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment3.png[/img] Kaioken 10x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KaioFragment4.png[/img] Kaioken 20x
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence1.png[/img] Novice Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence2.png[/img] Student Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence3.png[/img] Adept Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence4.png[/img] Enraged Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiEssence5.png[/img] Master Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment1.png[/img] Novice Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment2.png[/img] Student Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment3.png[/img] Adept Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment4.png[/img] Enraged Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/KiFragment5.png[/img] Master Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol1.png[/img] Bukuujutsu Guide Vol 1 
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol2.png[/img] Bukuujutsu Guide Vol 2
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BukuujutsuVol3.png[/img] Bukuujutsu Guide Vol 3
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionVanish.png[/img] I.T. Tome Vol 1
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionTeleport.png[/img] I.T. Tome Vol 2
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/TransmissionPura.png[/img] I.T. Tome Vol 3
+[*][img]https://i0.wp.com/is.gd/bwUYeL[/img] Kaioken
+[*][img]https://i0.wp.com/is.gd/NuvfrX[/img] Kaioken 3x
+[*][img]https://i0.wp.com/is.gd/9chlKg[/img] Kaioken 4x
+[*][img]https://i0.wp.com/is.gd/0FYPI1[/img] Kaioken 10x
+[*][img]https://i0.wp.com/is.gd/11CTfY[/img] Kaioken 20x
+[*][img]https://i0.wp.com/is.gd/zDXpzg[/img] Novice Ki Scroll
+[*][img]https://i0.wp.com/is.gd/xvPOP6[/img] Student Ki Scroll
+[*][img]https://i0.wp.com/is.gd/Fd4Oop[/img] Adept Ki Scroll
+[*][img]https://i0.wp.com/is.gd/VgODYv[/img] Enraged Ki Scroll
+[*][img]https://i0.wp.com/is.gd/bXqIAS[/img] Master Ki Scroll
+[*][img]https://i0.wp.com/is.gd/oUxpse[/img] Novice Ki Fragment
+[*][img]https://i0.wp.com/is.gd/J3TDmW[/img] Student Ki Fragment
+[*][img]https://i0.wp.com/is.gd/ZuNPqf[/img] Adept Ki Fragment
+[*][img]https://i0.wp.com/is.gd/H5ZWpW[/img] Enraged Ki Fragment
+[*][img]https://i0.wp.com/is.gd/kIpgM5[/img] Master Ki Fragment
+[*][img]https://i0.wp.com/is.gd/fBGjqP[/img] Bukuujutsu Guide Vol 1 
+[*][img]https://i0.wp.com/is.gd/zmMk3S[/img] Bukuujutsu Guide Vol 2
+[*][img]https://i0.wp.com/is.gd/qYKQRd[/img] Bukuujutsu Guide Vol 3
+[*][img]https://i0.wp.com/is.gd/q7tJe5[/img] I.T. Tome Vol 1
+[*][img]https://i0.wp.com/is.gd/STHBr3[/img] I.T. Tome Vol 2
+[*][img]https://i0.wp.com/is.gd/ssXYBG[/img] I.T. Tome Vol 3
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3781230133]Dragon Ball Terraria: Calamity Addon reuploaded [/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiEssence6.png[/img] God Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/KiFragment6.png[/img] God Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/LimitBreaker.png[/img] Legendary Limit Breaker
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai5.png[/img] Zenkai Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai10.png[/img] Harsh Zenkai Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/CalDBZ/Zenkai15.png[/img] Brutal Zenkai Soul
+[*][img]https://i0.wp.com/is.gd/SLv5lz[/img] God Ki Scroll
+[*][img]https://i0.wp.com/is.gd/WpVOu4[/img] God Ki Fragment
+[*][img]https://i0.wp.com/is.gd/k1mZMC[/img] Legendary Limit Breaker
+[*][img]https://i0.wp.com/is.gd/VWtNjp[/img] Zenkai Soul
+[*][img]https://i0.wp.com/is.gd/Amv0q6[/img] Harsh Zenkai Soul
+[*][img]https://i0.wp.com/is.gd/z62oth[/img] Brutal Zenkai Soul
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961904216]Dragon Ball Terraria: Blue Evolution Addon [/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiEssenceS.png[/img] Skilled Ki Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/KiFragmentS.png[/img] Skilled Ki Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BlueAddon/EvilSaiyanItem.png[/img] Fruit of Might
+[*][img]https://i0.wp.com/is.gd/0T5CKM[/img] Skilled Ki Scroll
+[*][img]https://i0.wp.com/is.gd/CxLbz0[/img] Skilled Ki Fragment
+[*][img]https://i0.wp.com/is.gd/clIY6w[/img] Fruit of Might
 [/list]
 [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3473104066]Dragon Ball Terraria: Better Projectile Visuals[/url][/b]
 [list]
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraFruit.png[/img] Ultra Fruit
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIFragment.png[/img] Ultra KI Fragment
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/UltraKIScroll.png[/img] Ultra KI Scroll
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/PolterghastSoul.png[/img] Polterghast Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GodSoul.png[/img] God Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/WitchSoul.png[/img] Witch Soul
-[*][img]https://cdn.jsdelivr.net/gh/moonditch/photo-icon/DragonBall/BetterDBZ/GokuSenzuBean.png[/img] Goku's Senzu Bean
+[*][img]https://i0.wp.com/is.gd/UgBGhU[/img] Ultra Fruit
+[*][img]https://i0.wp.com/is.gd/SlumW0[/img] Ultra KI Fragment
+[*][img]https://i0.wp.com/is.gd/gRhO5n[/img] Ultra KI Scroll
+[*][img]https://i0.wp.com/is.gd/pRKlwg[/img] Polterghast Soul
+[*][img]https://i0.wp.com/is.gd/gNUaNa[/img] God Soul
+[*][img]https://i0.wp.com/is.gd/fbKLvh[/img] Witch Soul
+[*][img]https://i0.wp.com/is.gd/AH3tZj[/img] Goku's Senzu Bean
 [/list]
